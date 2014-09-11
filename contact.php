@@ -18,10 +18,10 @@ include("head.php");
 <div class='container'>
     <div class='row'>
         <div class='col-lg-6'>
-            <H4>INSTRUMENTAL MACHINE & DEVELOPMENT</h4>
-            <h5>2098 N. Pound Drive, West
-                Warsaw, Indiana 46582</h5>
-            <h5>574-267-7713</h5>
+            <p id='textBold'>INSTRUMENTAL MACHINE & DEVELOPMENT</p>
+            <p id='textAlignCenter'>2098 N. Pound Drive, West
+                Warsaw, Indiana 46582</p>
+            <p>574-267-7713</p>
         </div>
 
 

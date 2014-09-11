@@ -7,7 +7,7 @@ include("head.php");
 <div class="container">
     <div class="row">
         <div class='col-lg-12'>
-            <img src='/slider/slider1.jpg'
+            <img src='/slider/slider1.jpg'>
         </div>
     </div>
 </div>
@@ -75,7 +75,7 @@ include("head.php");
         </div>
 
         <div class='col-lg-3' >
-            <img src='images/company-history.jpg'>
+            <a href='history.php'><img src='images/company-history.jpg'></a>
         </div>
     </div>
 </div>

@@ -17,7 +17,7 @@ include("head.php");
 
         <div class="col-lg-6">
             <ul>
-                <li>Swiss Lathes</li>
+                <li id='listItems'>Swiss Lathes</li>
                 <li>Wire EDMs</li>
                 <li>Welding</li>
                 <li>Blasting</li>
