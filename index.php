@@ -4,7 +4,7 @@ include("head.php");
 ?>
 
 
-<div class="container">
+<div  class="container-fluid ">
     <div class="row">
         <h2>Welcome to IMD</h2>
     </div>
@@ -24,7 +24,7 @@ include("head.php");
                 <div class="item active">
                     <img  src="/images/home_building.jpg" />
                     <div class="carousel-caption">
-                        <h1 class="carousel-caption-header">IMD</h1>
+                        <h1 class="carousel-caption-header"></h1>
                         <p class="carousel-caption-text hidden-sm hidden-xs">
                             Instrumental Machine & Development (IMD) a quality minded manufacturer of Orthopedic and Medical Instrumentation, supporting the Orthopedic community.
                         </p>
@@ -34,7 +34,7 @@ include("head.php");
                 <div class="item">
                     <img src="/slider/slider1.jpg" />
                     <div class="carousel-caption">
-                        <h1 class="carousel-caption-header">IMD</h1>
+                        <h1 class="carousel-caption-header"></h1>
                         <p class="carousel-caption-text hidden-sm hidden-xs">
                             IMD is committed to quality, on-time delivery and meeting the requirements of each and every customer.
                         </p>
