@@ -15,8 +15,6 @@
         <!-- Latest compiled and minified JavaScript -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
-        <!-- Fancybox Library-->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
         <link rel="stylesheet" href="/css/main.css">
         <link rel="stylesheet" href="/css/jquery.fancybox.css">
