@@ -23,18 +23,18 @@ include("head.php");
 
         <div class="input-group input-group-lg">
             <span class="input-group-addon">Name</span>
+            <input type="text" class="form-control" placeholder="First Last">
+        </div>
+        <div class="input-group input-group-lg">
+            <span class="input-group-addon">@Email</span>
+            <input type="text" class="form-control" placeholder="address@domain.com">
+        </div>
+        <div class="input-group input-group-lg">
+            <span class="input-group-addon">City</span>
             <input type="text" class="form-control" placeholder="Username">
         </div>
         <div class="input-group input-group-lg">
-            <span class="input-group-addon">Name</span>
-            <input type="text" class="form-control" placeholder="Username">
-        </div>
-        <div class="input-group input-group-lg">
-            <span class="input-group-addon">Name</span>
-            <input type="text" class="form-control" placeholder="Username">
-        </div>
-        <div class="input-group input-group-lg">
-            <span class="input-group-addon">Name</span>
+            <span class="input-group-addon">State</span>
             <input type="text" class="form-control" placeholder="Username">
         </div>
         <div class="input-group input-group-lg">
