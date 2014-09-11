@@ -6,7 +6,7 @@ include("head.php");
 
 <div class="container">
     <div class="row">
-        <h2>Carousel with text and transition timer.</h2>
+        <h2>Welcome to IMD</h2>
     </div>
 
     <div class="row">
@@ -22,11 +22,11 @@ include("head.php");
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
                 <div class="item active">
-                    <img src="http://placehold.it/1200x400" />
+                    <img  src="/images/home_building.jpg" />
                     <div class="carousel-caption">
                         <h1 class="carousel-caption-header">Slide 1</h1>
                         <p class="carousel-caption-text hidden-sm hidden-xs">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dignissim aliquet rutrum. Praesent vitae ante in nisi condimentum egestas. Aliquam.
+                            Instrumental Machine & Development (IMD) a quality minded manufacturer of Orthopedic and Medical Instrumentation, supporting the Orthopedic community.
                         </p>
                     </div>
                 </div>
@@ -36,7 +36,7 @@ include("head.php");
                     <div class="carousel-caption">
                         <h1 class="carousel-caption-header">Slide 2</h1>
                         <p class="carousel-caption-text hidden-sm hidden-xs">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dignissim aliquet rutrum. Praesent vitae ante in nisi condimentum egestas. Aliquam.
+                            IMD is committed to quality, on-time delivery and meeting the requirements of each and every customer.
                         </p>
                     </div>
                 </div>
@@ -46,7 +46,7 @@ include("head.php");
                     <div class="carousel-caption">
                         <h1 class="carousel-caption-header">Slide 3</h1>
                         <p class="carousel-caption-text hidden-sm hidden-xs">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dignissim aliquet rutrum. Praesent vitae ante in nisi condimentum egestas. Aliquam.
+                            IMD specializes in Orthopedic Instrumentation, Sterilization Trays and accessories for the Operating Room. We have the knowledge and experience to serve our customers manufacturing and assembly needs.
                         </p>
                     </div>
                 </div>
