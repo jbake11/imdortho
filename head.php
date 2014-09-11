@@ -17,13 +17,22 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
     <div class='container-fluid'>
-        <div class='row col-lg-5 col-lg-2 col-lg-5'>
-            <nav class="navbar navbar-default navbar-static-top" role="navigation">
-                <div class="container">
-                    <ul class="nav nav-tabs" role="tablist">
-                        <li class="active"><a href="index.php">Home</a></li>
+        <div class='row'>
+            <nav class="navbar-static-top navbar">
+                <div class='col-lg-5'>
+                    <ul>
+                        <li><a href="index.php">Home</a></li>
                         <li><a href="contact.php">Contact Us</a></li>
                         <li><a href="history.php">History</a></li>
+                    </ul>
+                </div>
+
+                <div class='col-lg-2'>
+                    <img src='images/logo.png'>
+                </div>
+
+                <div class='col-lg-5'>
+                    <ul>
                         <li><a href="photo.php">Photo Gallery</a></li>
                         <li><a href="equip.php">Equipment & Services</a></li>
                     </ul>
@@ -31,7 +40,7 @@
             </nav>
         </div>
     </div>
-
+</div>
 </head>
 <body>
     <div id="#bodywrap" class='container-fluid'>
