@@ -32,9 +32,9 @@ include("head.php");
                 </div>
 
                 <div class="item">
-                    <img src="http://placehold.it/1200x400/AAAAAA/888888" />
+                    <img src="/slider/slider1.jpg" />
                     <div class="carousel-caption">
-                        <h1 class="carousel-caption-header">Slide 2</h1>
+                        <h1 class="carousel-caption-header">IMD</h1>
                         <p class="carousel-caption-text hidden-sm hidden-xs">
                             IMD is committed to quality, on-time delivery and meeting the requirements of each and every customer.
                         </p>
