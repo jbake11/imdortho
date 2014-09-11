@@ -4,72 +4,87 @@ include("head.php");
 ?>
 
 
+<h1>Services</h1>
 
-<h1>Equipment & Services</h1>
+<h3>From design development to single and total manufacturing, we are dedicated to meeting the demands of today’s “just-in-time” inventory philosophy.
+    For quality and personal service for medical devices and instruments,
+    we’re your source!</h3>
+<div class='container-fluid'>
+    <div class="row">
+        <h3>We offer a full range of in-house
+            services, including:</h3>
 
 
-
-
-<div class="container" >
-    <div class="panel panel-default "  >
-        <!-- Default panel contents -->
-        <div class="panel-heading"><h3>Equipment List</h3></div>
-        <div class="panel-body">
-
+        <div class="col-lg-6">
+            <ul>
+                <li>Swiss Lathes</li>
+                <li>Wire EDMs</li>
+                <li>Welding</li>
+                <li>Blasting</li>
+                <li>Laser Welding</li>
+                <li>Surface Grinding</li>
+                <li>Prototype and</li>
+                <li>Custom Parts</li>
+                <li>Department</li>
+            </ul>
         </div>
-
-        <!-- List group -->
-        <ul class="list-group">
-            <li class="list-group-item">Mazak Cnc Mills</li>
-            <li class="list-group-item">Haas Cnc Mills</li>
-            <li class="list-group-item">Star Sr20r</li>
-            <li class="list-group-item">Star Sr32</li>
-            <li class="list-group-item">Mazak Cnc Lathes</li>
-            <li class="list-group-item">Fanuc Wire Edms</li>
-            <li class="list-group-item">Omax Waterjets</li>
-            <li class="list-group-item">Trumph Laser Marker</li>
-            <li class="list-group-item">Various Manual And Finishing Equipment</li>
-        </ul>
+        <div class="col-lg-6">
+            <ul>
+                <li>CNC Mills</li>
+                <li>Waterjets</li>
+                <li>Polishing</li>
+                <li>Laser Marking</li>
+                <li>Passivation</li>
+                <li>Vibratory Finishing</li>
+            </ul>
+        </div>
     </div>
-</div>
-
-
-<div class="container" >
-    <div class="panel panel-default "  >
-        <!-- Default panel contents -->
-        <div class="panel-heading"><h3>Services</h3></div>
-        <div class="panel-body">
-            <h4>We offer a full range of in-house services, including:</h4>
+    <div class="row">
+        <h3>Access to nearby services:</h3>
+        <div class="col-lg-6">
+            <ul>
+                <li>Heat Treating</li>
+                <li>Anodizing</li>
+                <li>Chrome Coating</li>
+                <li>Tin Coating</li>
+                <li>Gun Drilling</li>
+            </ul>
         </div>
-
-        <ul class="list-group">
-            <li class="list-group-item">Swiss Lathes</li>
-            <li class="list-group-item">CNC Mills</li>
-            <li class="list-group-item">Wire EDMs</li>
-            <li class="list-group-item">Waterjets</li>
-            <li class="list-group-item">Welding</li>
-            <li class="list-group-item">Polishing</li>
-            <li class="list-group-item">Blasting</li>
-            <li class="list-group-item">Laser Marking</li>
-
-        </ul>
-
-        <!-- Default panel contents -->
-        <div class="panel-body">
-            <h4>Access to nearby services:</h4>
+        <div class="col-lg-6">
+            <ul>
+                <li>Electro-Polishing</li>
+                <li>Passivation</li>
+                <li>Silk Screening</li>
+                <li>Plastic Coating</li>
+            </ul>
         </div>
-        <ul class="list-group">
-            <li class="list-group-item">Heat Treating</li>
-            <li class="list-group-item">Electro-Polishing</li>
-            <li class="list-group-item">Anodizing</li>
-            <li class="list-group-item">Passivation</li>
-            <li class="list-group-item">Chrome coating</li>
-            <li class="list-group-item">Silk Screening</li>
-
-        </ul>
     </div>
 
+    <div class="row">
+        <h1>EQUIPMENT</h1>
+        <h3>IMD combines knowledge, experience and a broad range of manufacturing equipment to design and provide
+            medical devices.</h3>
+        <div class="col-lg-12"
+             <ul>
+                <li>Mazak CNC Mills</li>
+                <li>Haas CNC Mills</li>
+                <li>Star SR32</li>
+                <li>Mazak CNC Lathes</li>
+                <li>Fanuc Wire EDMs</li>
+                <li>Star SR20R</li>
+                <li>Trumpf Laser Marker</li>
+                <li>Omax Waterjets</li>
+                <li>Laser Star Laser Welder</li>
+                <li>Ramco Passivation Line</li>
+                <li>Blanchard Grinder</li>
+                <li>Various Manual & Finishing Equipment</li>
+            </ul>
+        </div>
 
+
+
+
+    </div>
 
     <?php
     include("foot.php");

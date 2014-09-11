@@ -13,6 +13,11 @@ and open the template in the editor.
     padding-right: 0px;
 }
 
+#listtext{
+   font-size: 50px;
+    
+} 
+
 #footer{
     background: url('/images/footerbg.jpg') no-repeat;
     background-size: cover;
