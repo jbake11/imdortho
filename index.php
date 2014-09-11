@@ -24,7 +24,7 @@ include("head.php");
                 <div class="item active">
                     <img  src="/images/home_building.jpg" />
                     <div class="carousel-caption">
-                        <h1 class="carousel-caption-header">Slide 1</h1>
+                        <h1 class="carousel-caption-header">IMD</h1>
                         <p class="carousel-caption-text hidden-sm hidden-xs">
                             Instrumental Machine & Development (IMD) a quality minded manufacturer of Orthopedic and Medical Instrumentation, supporting the Orthopedic community.
                         </p>

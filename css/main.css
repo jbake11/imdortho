@@ -77,3 +77,8 @@ and open the template in the editor.
 }
 
 
+.gallery
+{
+    display: inline-block;
+    margin-top: 20px;
+}
