@@ -6,10 +6,18 @@ include("head.php");
 
 <div class="container">
     <div class="row">
-        <h2>Welcome to IMD</h2>
+        <div class='col-lg-12'>
+            <img src='/slider/slider1.jpg'
+        </div>
     </div>
+</div>
 
-    <div class="row">
+<div class="row">
+    <br>
+</div>
+
+<div class="container"
+     <div class="row">
         <!-- The carousel -->
         <div id="transition-timer-carousel" class="carousel slide transition-timer-carousel" data-ride="carousel">
             <!-- Indicators -->
