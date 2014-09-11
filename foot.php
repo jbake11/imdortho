@@ -1,4 +1,8 @@
 
+</div>
+</div>
+</div>
+
 <div id='footer' class="container-fluid" >
     <div class="row" >
         <div class='col-lg-3'>
