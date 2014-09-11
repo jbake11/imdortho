@@ -21,6 +21,7 @@ include("head.php");
 <!-- References: https://github.com/fancyapps/fancyBox -->
 <link rel="stylesheet" href="/css/jquery.fancybox.css" media="screen">
 <script src="/js/jquery.fancybox.js"></script>
+<script src="/js/fancybox.js"></script>
 
 
 <div class="container">
