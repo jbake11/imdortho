@@ -3,11 +3,14 @@
 include("head.php");
 ?>
 
-<h1>Photo Gallery</h1>
+<div class='container-fluid'>
+    <h1>Photo Gallery</h1>
+</div>
 
-<h2>IMD Specializes in a number of production processes for the Orthopaedic Industry. Below is a gallery
-    of products we have manufactured for various clients.</h2>
-
+<div class='container-fluid'>
+    <h2>IMD Specializes in a number of production processes for the Orthopaedic Industry. Below is a gallery
+        of products we have manufactured for various clients.</h2>
+</div>
 <!--####
 1OK) Add jQuery library "<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>"
 2) Download fancybox (https://github.com/fancyapps/fancyBox)
