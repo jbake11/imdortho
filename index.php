@@ -4,7 +4,7 @@ include("head.php");
 ?>
 
 
-<div  class="container-fluid ">
+<div class="container">
     <div class="row">
         <h2>Welcome to IMD</h2>
     </div>

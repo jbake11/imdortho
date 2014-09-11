@@ -8,6 +8,11 @@ and open the template in the editor.
     Author     : Jeff
 */
 
+#bodywrap{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
 #footer{
     background: url('/images/footerbg.jpg') no-repeat;
     background-size: cover;

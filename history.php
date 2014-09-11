@@ -10,6 +10,12 @@ include("head.php");
 
 <div class='container'>
     <div class='row'>
+        <img src='images/company-history.jpg'
+    </div>
+</div>
+
+<div class='container'>
+    <div class='row'>
         <img src='images/building/building.png'
     </div>
 </div>

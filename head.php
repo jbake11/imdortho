@@ -17,7 +17,7 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
     <div class='container-fluid'>
-        <div class='row'>
+        <div class='row col-lg-5 col-lg-2 col-lg-5'>
             <nav class="navbar navbar-default navbar-static-top" role="navigation">
                 <div class="container">
                     <ul class="nav nav-tabs" role="tablist">
@@ -34,7 +34,7 @@
 
 </head>
 <body>
-    <div class='container'>
+    <div id="#bodywrap" class='container-fluid'>
         <div class='row'>
             <div class='col-lg-12'>
 
