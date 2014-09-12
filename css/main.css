@@ -38,6 +38,10 @@ a:active {
     padding-right: 0px;
 }
 
+.nwrap{
+    whitespace: nowrap;
+}
+
 .transp{
     z-index: 999;
 }
@@ -182,23 +186,23 @@ body {
 #equipment{
     padding-left: 0;
     background: url('/images/gears.jpg') no-repeat;
-    margin-left: -20px;
+    margin-left: -52px;
     list-style-type: none;
-    font-size: 22px;
+    margin-top: -42px;
 }
 
 #products{
     padding-left: 0;
     background: url('/images/pliers.jpg') no-repeat;
-    margin-left: -20px;
+    margin-left: -52px;
     list-style-type: none;
-    font-size: 22px;
+    margin-top: -42px;
 }
 
 #employment{
     padding-left: 0;
-    background: url('/images/man.png') no-repeat;
-    margin-left: -20px;
+    list-style-image: url('/images/man.png');
+    margin-left: -52px;
     list-style-type: none;
-    font-size: 22px;
+    margin-top: -42px;
 }
