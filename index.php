@@ -4,6 +4,8 @@ include("head.php");
 ?>
 
 </div>
+</div>
+</div>
 <div id='sliderWrite' class="container-fluid">
     <div class="row">
         <!-- The carousel -->
@@ -60,9 +62,21 @@ include("head.php");
     </div>
 </div>
 
-<div class="container">
+<div class="container indexContent">
     <div class="row">
         <div class="col-lg-9">
+            <h1>Knowledge. Equipment. Experience.</h1>
+
+            <h3>From single machining operations service to full manufacturing capabilities,
+                you can count on Instrumental Machine & Development.</h3>
+
+            Instrumental Machine & Development (IMD) a quality minded manufacturer of Orthopedic and
+            Medical Instrumentation, supporting the Orthopedic community.
+
+            IMD is committed to quality, on-time delivery and meeting the requirements of each and every customer.
+
+            IMD specializes in Orthopedic Instrumentation, Sterilization Trays and accessories for the Operating Room.
+            We have the knowledge and experience to serve our customers manufacturing and assembly needs.
 
         </div>
         <div class='col-lg-3' >
@@ -72,10 +86,11 @@ include("head.php");
 </div>
 
 <div class='container'>
-
-    <?php
-    include("foot.php");
-    ?>
+    <div class='row'>
+        <div class='col-lg-12'>
+            <?php
+            include("foot.php");
+            ?>
 
 
 

@@ -23,8 +23,8 @@
     <body>
         <div class='container'>
             <div class='row'>
-                <div class='col-lg-5'>
-                    <ul class="nav nav-pills">
+                <div class='col-lg-5 col-md-5'>
+                    <ul id='leftnav' class="nav nav-pills">
                         <li><a href="index.php">Home</a></li>
                         <li><a href="contact.php">Contact Us</a></li>
                         <li><a href="history.php">History</a></li>
@@ -32,12 +32,12 @@
                 </div>
 
 
-                <div class='col-lg-2'>
-                    <img src='images/logo.png'>
+                <div class='col-lg-2 col-md-2 transp'>
+                    <a href="index.php"><img src='images/logo.png'></a>
                 </div>
 
-                <div class='col-lg-5'>
-                    <ul class="nav nav-pills">
+                <div class='col-lg-5 col-md-5'>
+                    <ul id='rightnav' class="nav nav-pills">
                         <li><a href="photo.php">Photo Gallery</a></li>
                         <li><a href="equip.php">Equipment & Services</a></li>
                     </ul>

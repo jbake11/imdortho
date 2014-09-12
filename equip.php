@@ -2,10 +2,7 @@
 <?php
 include("head.php");
 ?>
-
-
 <h1>Services</h1>
-
 <h3>From design development to single and total manufacturing, we are dedicated to meeting the demands of today’s “just-in-time” inventory philosophy.
     For quality and personal service for medical devices and instruments,
     we’re your source!</h3>
