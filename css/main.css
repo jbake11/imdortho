@@ -198,6 +198,7 @@ body {
     margin-left: -52px;
     list-style-type: none;
     margin-top: -42px;
+    font-size: 36px;
 }
 
 #products{
@@ -206,6 +207,8 @@ body {
     margin-left: -52px;
     list-style-type: none;
     margin-top: -42px;
+    font-size: 36px;
+
 }
 
 #employment{
@@ -214,4 +217,5 @@ body {
     margin-left: -52px;
     list-style-type: none;
     margin-top: -42px;
+    font-size: 36px;
 }
