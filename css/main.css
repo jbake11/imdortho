@@ -84,8 +84,8 @@ body {
 
 #footer{
     background: url('/images/footerbg.jpg') no-repeat;
-    background-size: contain;
-    min-height: 300px;
+    background-size: cover;
+    min-height: 400px;
 
 }
 
