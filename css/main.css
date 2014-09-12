@@ -184,6 +184,7 @@ body {
     background: url('/images/gears.jpg') no-repeat;
     margin-left: -20px;
     list-style-type: none;
+    font-size: 22px;
 }
 
 #products{
@@ -191,6 +192,7 @@ body {
     background: url('/images/pliers.jpg') no-repeat;
     margin-left: -20px;
     list-style-type: none;
+    font-size: 22px;
 }
 
 #employment{
@@ -198,4 +200,5 @@ body {
     background: url('/images/man.png') no-repeat;
     margin-left: -20px;
     list-style-type: none;
+    font-size: 22px;
 }
