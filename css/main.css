@@ -182,16 +182,20 @@ body {
 #equipment{
     padding-left: 0;
     background: url('/images/gears.jpg') no-repeat;
-
+    margin-left: -20px;
+    list-style-type: none;
 }
 
 #products{
     padding-left: 0;
     background: url('/images/pliers.jpg') no-repeat;
-
+    margin-left: -20px;
+    list-style-type: none;
 }
 
 #employment{
     padding-left: 0;
     background: url('/images/man.png') no-repeat;
+    margin-left: -20px;
+    list-style-type: none;
 }
