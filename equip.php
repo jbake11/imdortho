@@ -11,7 +11,7 @@ include("head.php");
         <h3>We offer a full range of in-house
             services, including:
         </h3>
-        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
             <ul>
                 <li>Swiss Lathes</li>
                 <li>Wire EDMs</li>
@@ -24,7 +24,7 @@ include("head.php");
                 <li>Department</li>
             </ul>
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
             <ul>
                 <li>CNC Mills</li>
                 <li>Waterjets</li>
@@ -34,10 +34,13 @@ include("head.php");
                 <li>Vibratory Finishing</li>
             </ul>
         </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+            <img src='images/services/production_2.jpg'>
+        </div>
     </div>
     <div class="row">
         <h3>Access to nearby services:</h3>
-        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
             <ul>
                 <li>Heat Treating</li>
                 <li>Anodizing</li>
@@ -46,7 +49,7 @@ include("head.php");
                 <li>Gun Drilling</li>
             </ul>
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
             <ul>
                 <li>Electro-Polishing</li>
                 <li>Passivation</li>
@@ -54,10 +57,13 @@ include("head.php");
                 <li>Plastic Coating</li>
             </ul>
         </div>
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+            <img src='images/services/waterjet.jpg'>
+        </div>
     </div>
 
     <div class="row">
-        <h1>EQUIPMENT</h1>
+        <h1>Equipment</h1>
         <h3>IMD combines knowledge, experience and a broad range of manufacturing equipment to design and provide
             medical devices.</h3>
         <div class="col-lg-12"
@@ -81,7 +87,8 @@ include("head.php");
 
 
     </div>
-
-    <?php
-    include("foot.php");
-    ?>
+</div>
+</div>
+<?php
+include("foot.php");
+?>

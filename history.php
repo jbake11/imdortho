@@ -5,13 +5,17 @@ include("head.php");
 
 
 <div class='container'>
-    <h1>Company History</h1>
+    <div class='row'>
+        <div class='col-lg-12'>
+            <h1>Company History</h1>
+        </div>
+    </div>
 </div>
 
 <div class='container'>
     <div class='row'>
         <div class='col-lg-12'>
-            <img src='images/building/2015_building.jpg'
+            <img src='images/building/2015_building.jpg'>
         </div>
     </div>
 </div>
