@@ -8,6 +8,10 @@ and open the template in the editor.
     Author     : Jeff
 */
 
+.form-group label { 
+    font-size: 18px; 
+}
+
 #listItems{
     font-size: 18px;
 }

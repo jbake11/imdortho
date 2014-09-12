@@ -31,7 +31,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811120036.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811120036.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -39,7 +39,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811120091.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811120091.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -47,7 +47,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811120116.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811120116.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -55,7 +55,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811120128.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811120128.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -63,7 +63,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811120132.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811120132.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -71,7 +71,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811120145.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811120145.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -79,7 +79,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811120193.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811120193.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -87,7 +87,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811120197.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811120197.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -95,7 +95,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811120211.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811120211.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -103,7 +103,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811120240.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811120240.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -111,7 +111,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811120284.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811120284.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -119,7 +119,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811120303.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811120303.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -127,7 +127,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811120311.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811120311.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -135,7 +135,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811120323.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811120323.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -143,7 +143,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811120323.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811120323.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -151,7 +151,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811170341.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811170341.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -159,7 +159,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811170347.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811170347.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -167,7 +167,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811170363.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811170363.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -175,7 +175,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811170387.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811170387.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->
@@ -183,7 +183,7 @@ include("head.php");
                 <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/811170390.jpg">
                     <img class="img-responsive" alt="" src="/images/gallery/811170390.jpg" />
                     <div class='text-right'>
-                        <small class='text-muted'>Image Title</small>
+
                     </div> <!-- text-right / end -->
                 </a>
             </div> <!-- col-6 / end -->

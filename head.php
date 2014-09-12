@@ -22,7 +22,7 @@
         <div class='row'>
             <nav class="navbar-static-top navbar">
                 <div class='col-lg-5'>
-                    <ul>
+                    <ul class="nav nav-pills">
                         <li><a href="index.php">Home</a></li>
                         <li><a href="contact.php">Contact Us</a></li>
                         <li><a href="history.php">History</a></li>
@@ -34,7 +34,7 @@
                 </div>
 
                 <div class='col-lg-5'>
-                    <ul>
+                    <ul class="nav nav-pills">
                         <li><a href="photo.php">Photo Gallery</a></li>
                         <li><a href="equip.php">Equipment & Services</a></li>
                     </ul>
@@ -45,7 +45,7 @@
 </div>
 </head>
 <body>
-    <div id="#bodywrap" class='container-fluid'>
+    <div id="bodywrap" class='container'>
         <div class='row'>
             <div class='col-lg-12'>
 
