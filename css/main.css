@@ -111,11 +111,7 @@ body {
     margin-top: 30px;
 }
 
-.indexText2Glyphs{
-    margin: 0;
-    padding: 0;
-    margin-left:  -30px;
-}
+
 
 .transition-timer-carousel .carousel-caption {
     background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.1) 4%, rgba(0,0,0,0.5) 32%, rgba(0,0,0,1) 100%); /* FF3.6+ */
@@ -181,4 +177,21 @@ body {
 .carousel-inner>.item>img, .carousel-inner>.item>a>img {
     line-height: 1;
     width: 100%;
+}
+
+#equipment{
+    padding-left: 0;
+    background: url('/images/gears.jpg') no-repeat;
+
+}
+
+#products{
+    padding-left: 0;
+    background: url('/images/pliers.jpg') no-repeat;
+
+}
+
+#employment{
+    padding-left: 0;
+    background: url('/images/man.png') no-repeat;
 }
