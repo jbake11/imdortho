@@ -64,7 +64,7 @@ include("head.php");
 
 <div class="container indexContent">
     <div class="row">
-        <div class="col-lg-9">
+        <div class="col-lg-9 col-md-9 col-sm-9">
             <h1>Knowledge. Equipment. Experience.</h1>
 
             <h3>From single machining operations service to full manufacturing capabilities,
@@ -79,8 +79,8 @@ include("head.php");
             We have the knowledge and experience to serve our customers manufacturing and assembly needs.
 
         </div>
-        <div class='col-lg-3' >
-            <a href='history.php'><img src='images/company-history.jpg'></a>
+        <div class='col-lg-3 col-md-3 col-sm-3'>
+            <a href='history.php'><img class='img-responsive' src='images/company-history.jpg'></a>
         </div>
     </div>
 </div>
