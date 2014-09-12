@@ -14,30 +14,42 @@ include("head.php");
         </div>
     </div>
 </div>
+<br>
 
 <div class='container'>
     <div class='row'>
         <div class='col-lg-6'>
-            <p id='textBold'>INSTRUMENTAL MACHINE & DEVELOPMENT</p>
-            <p id='textAlignCenter'>2098 N. Pound Drive, West
-                Warsaw, Indiana 46582</p>
-            <p>574-267-7713</p>
+            <p><b>INSTRUMENTAL MACHINE & DEVELOPMENT</b></p>
+            <p id='textAlignCenter'>2098 N. Pound Drive,</p>
+            <p id='textAlignCenter'>West Warsaw, Indiana 46582</p>
+            <p id='textAlignCenter'>574-267-7713</p>
         </div>
 
 
         <div class='col-lg-6'>
             <form class='form'>
-                <legend>Legend</legend>
+                <legend>Email Us For More Information</legend>
 
-
-
-                <div class="input-group input-group-lg">
-                    <span class="input-group-addon">Name</span>
-                    <input name='fullname' type="text" class="form-control" placeholder="First Last">
+                <div class='col-sm-6'>
+                    <div class="input-group input-group-lg">
+                        <span class="input-group-addon">First Name</span>
+                        <input name='firstname' type="text" class="form-control" placeholder="First Name">
+                    </div>
                 </div>
+                <div class='col-sm-6'>
+                    <div class="input-group input-group-lg">
+                        <span class="input-group-addon">Last Name</span>
+                        <input name='firstname' type="text" class="form-control" placeholder="Last Name">
+                    </div>
+                </div>
+
                 <div class="input-group input-group-lg">
                     <span class="input-group-addon">@Email</span>
                     <input name='email' type="text" class="form-control" placeholder="address@domain.com">
+                </div>
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon">Address</span>
+                    <input name='address' type="text" class="form-control" placeholder="Address">
                 </div>
                 <div class="input-group input-group-lg">
                     <span class="input-group-addon">City</span>
@@ -45,43 +57,19 @@ include("head.php");
                 </div>
                 <div class="input-group input-group-lg">
                     <span class="input-group-addon">State</span>
-                    <input name='state' type="select" class="form-control" placeholder="Username">
+                    <input name='state' type="select" class="form-control" placeholder="State">
                 </div>
                 <div class="input-group input-group-lg">
                     <span class="input-group-addon">Zip</span>
-                    <input name='zip' type="text" class="form-control" placeholder="Username">
+                    <input name='zip' type="text" class="form-control" placeholder="xxxxx">
                 </div>
-                <div class="input-group input-group-lg">
-                    <span class="input-group-addon">Address</span>
-                    <input name='address' type="text" class="form-control" placeholder="Username">
-                </div>
+
 
 
             </form>
         </div>
     </div>
 </div>
-<!--
-
-Form info:
-
-Name:
-Email:
-City:
-State:
-Zip:
-Address:
-<Checkbox> Please send me a company brochure
-Message: <text box>
-
-<Submit> Send Your Message
-
-Thanks,
--->
-
-
-
-
 
 <?php
 include("foot.php");

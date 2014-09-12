@@ -18,7 +18,7 @@ and open the template in the editor.
 }
 
 li {
-    font-size: 18px
+    font-size: 18px;
 }
 
 p {
@@ -26,13 +26,8 @@ p {
     
 }
 
-#textBold{
-    font-weight: bold;
-}
-
 #textAlignCenter{
     text-align: center;
-    
 }
 
 #footer{
