@@ -28,44 +28,50 @@ include("head.php");
 
         <div class='col-lg-6'>
             <form class='form'>
-                <legend>Email Us For More Information</legend>
+                <fieldset>
+                    <legend>Email Us For More Information</legend>
 
-                <div class='col-sm-6'>
                     <div class="input-group input-group-lg">
-                        <span class="input-group-addon">First Name</span>
-                        <input name='firstname' type="text" class="form-control" placeholder="First Name">
+                        <span class="input-group-addon">Name</span>
+                        <input name='firstname' type="text" class="form-control" placeholder="Your Name">
                     </div>
-                </div>
-                <div class='col-sm-6'>
+                    <br>
                     <div class="input-group input-group-lg">
-                        <span class="input-group-addon">Last Name</span>
-                        <input name='firstname' type="text" class="form-control" placeholder="Last Name">
+                        <span class="input-group-addon">@Email</span>
+                        <input name='email' type="text" class="form-control" placeholder="address@domain.com">
                     </div>
-                </div>
+                    <br>
+                    <div class="input-group input-group-lg">
+                        <span class="input-group-addon">Address</span>
+                        <input name='address' type="text" class="form-control" placeholder="Your Address">
+                    </div>
+                    <br>
+                    <div class="input-group input-group-lg">
+                        <span class="input-group-addon">City</span>
+                        <input name='city' type="text" class="form-control" placeholder="Your City">
+                    </div>
+                    <br>
+                    <div class="input-group input-group-lg">
+                        <span class="input-group-addon">State</span>
+                        <input name='state' type="select" class="form-control" placeholder="Your State">
+                    </div>
+                    <br>
+                    <div class="input-group input-group-lg">
+                        <span class="input-group-addon">Zip</span>
+                        <input name='zip' type="text" class="form-control" placeholder="xxxxx">
+                    </div>
+                    <br>
+                    <textarea name='message' rows='15' cols='40'>
 
-                <div class="input-group input-group-lg">
-                    <span class="input-group-addon">@Email</span>
-                    <input name='email' type="text" class="form-control" placeholder="address@domain.com">
-                </div>
-                <div class="input-group input-group-lg">
-                    <span class="input-group-addon">Address</span>
-                    <input name='address' type="text" class="form-control" placeholder="Address">
-                </div>
-                <div class="input-group input-group-lg">
-                    <span class="input-group-addon">City</span>
-                    <input name='city' type="text" class="form-control" placeholder="Your City">
-                </div>
-                <div class="input-group input-group-lg">
-                    <span class="input-group-addon">State</span>
-                    <input name='state' type="select" class="form-control" placeholder="State">
-                </div>
-                <div class="input-group input-group-lg">
-                    <span class="input-group-addon">Zip</span>
-                    <input name='zip' type="text" class="form-control" placeholder="xxxxx">
-                </div>
+                    </textarea>
+                    <div class='col-sm-6'>
+                        <input type="checkbox" name="brochure" value="Bike">Please send me a company brochure<br>
+                    </div>
+                    <div class='col-sm-6'>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </div>
 
-
-
+                </fieldset>
             </form>
         </div>
     </div>
