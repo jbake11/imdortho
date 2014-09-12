@@ -85,19 +85,33 @@ include("head.php");
     </div>
 </div>
 
+
+
 <div class='container indexContent'>
     <div class='row'>
-        <div class='col-md-4'>
-            IMD utilizes the latest technology for orthopedic tool production. We offer a full line of in-house production mills, lathes, metal markers, cutting equipment and finishers. If specialized tool applications are required, we have the resources to complete the job to your specifications and satisfaction.
-
+        <div class='col-sm-1'>
+            <a href="equip.php"><img src="images/gears.jpg" alt=""/></a>
         </div>
-        <div class='col-md-4'>
+        <div class='col-sm-3 indexText2Glyphs'>
+            <h2>Equipmnent</h2>
+            IMD utilizes the latest technology for orthopedic tool production. We offer a full line of in-house production mills, lathes, metal markers, cutting equipment and finishers. If specialized tool applications are required, we have the resources to complete the job to your specifications and satisfaction.
+        </div>
+        <div class='col-sm-1'>
+            <a href="equip.php"><img src="images/pliers.jpg" alt=""/></a>
+        </div>
+        <div class='col-sm-3 indexText2Glyphs'>
+            <h2>Product Samples</h2>
             We've been supplying the orthopedic industry with surgical instrumentation since 1991. Other the years the surgical procedures have advances and become less invasive thanks to the advancements in tool surgical instrument engineering and production processes. Visit our Gallery of view the various tools we have produced.
         </div>
-        <div class='col-md-4'>
+        <div class='col-sm-1'>
+            <a href="employ.php"><img src="images/man.png" alt=""/></a>
+        </div>
+        <div class='col-sm-3 indexText2Glyphs'>
+            <h2>Employment</h2>
             IMD is an equal opportunity employer. We seek out candidates that share our vision for excellence and drive for customer satisfaction. If you would like to become part of the IMD family, please contact us for more information on available positions.
         </div>
     </div>
+
 </div>
 
 <div class='container'>
