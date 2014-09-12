@@ -14,13 +14,13 @@ include("head.php");
             <ol class="carousel-indicators">
                 <li data-target="#transition-timer-carousel" data-slide-to="0" class="active"></li>
                 <li data-target="#transition-timer-carousel" data-slide-to="1"></li>
-                <!--                <li data-target="#transition-timer-carousel" data-slide-to="2"></li>-->
+                <li data-target="#transition-timer-carousel" data-slide-to="2"></li>
             </ol>
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
                 <div class="item active">
-                    <img  src="/slider/slider1.jpg" />
+                    <img  src="/images/slider/panel_1.jpg" />
                     <div class="carousel-caption">
                         <h1 class="carousel-caption-header"></h1>
 
@@ -28,7 +28,7 @@ include("head.php");
                 </div>
 
                 <div class="item">
-                    <img src="/slider/slider1.jpg" />
+                    <img src="/images/slider/panel_2.jpg" />
                     <div class="carousel-caption">
                         <p class="carousel-caption-text hidden-sm hidden-xs">
 
@@ -36,16 +36,16 @@ include("head.php");
                     </div>
                 </div>
 
-                <!--                <div class="item">
-                                    <img src="/images/home_building.jpg" />
-                                    <div class="carousel-caption">
-                                        <h1 class="carousel-caption-header">Slide 3</h1>
-                                        <p class="carousel-caption-text hidden-sm hidden-xs">
+                <div class="item">
+                    <img src="/images/slider/panel_3.jpg" />
+                    <div class="carousel-caption">
+                        <h1 class="carousel-caption-header">Slide 3</h1>
+                        <p class="carousel-caption-text hidden-sm hidden-xs">
 
 
-                                        </p>
-                                    </div>
-                                </div>-->
+                        </p>
+                    </div>
+                </div>
             </div>
 
             <!-- Controls -->
