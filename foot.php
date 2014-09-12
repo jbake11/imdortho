@@ -2,6 +2,7 @@
 </div>
 </div>
 </div>
+</div>
 
 <div id='footer' class="container-fluid" >
     <div class="row" >

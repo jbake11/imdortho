@@ -16,6 +16,12 @@ and open the template in the editor.
     font-size: 18px;
 }
 
+#sliderWrite{
+    margin: 0;
+    padding: 0;
+    
+}
+
 #bodywrap{
     padding-left: 0px;
     padding-right: 0px;
@@ -25,12 +31,16 @@ li {
     font-size: 18px;
 }
 
+.address p{
+    text-align: center;
+}
+
 p {
      font-size: 25px;
     
 }
 
-#textAlignCenter{
+.textAlignCenter{
     text-align: center;
 }
 

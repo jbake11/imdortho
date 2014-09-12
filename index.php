@@ -3,16 +3,16 @@
 include("head.php");
 ?>
 
-
-<div class="container"
-     <div class="row">
+</div>
+<div id='sliderWrite' class="container-fluid">
+    <div class="row">
         <!-- The carousel -->
         <div id="transition-timer-carousel" class="carousel slide transition-timer-carousel" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#transition-timer-carousel" data-slide-to="0" class="active"></li>
                 <li data-target="#transition-timer-carousel" data-slide-to="1"></li>
-                <li data-target="#transition-timer-carousel" data-slide-to="2"></li>
+                <!--                <li data-target="#transition-timer-carousel" data-slide-to="2"></li>-->
             </ol>
 
             <!-- Wrapper for slides -->
@@ -34,16 +34,16 @@ include("head.php");
                     </div>
                 </div>
 
-                <div class="item">
-                    <img src="/images/home_building.jpg" />
-                    <div class="carousel-caption">
-                        <h1 class="carousel-caption-header">Slide 3</h1>
-                        <p class="carousel-caption-text hidden-sm hidden-xs">
+                <!--                <div class="item">
+                                    <img src="/images/home_building.jpg" />
+                                    <div class="carousel-caption">
+                                        <h1 class="carousel-caption-header">Slide 3</h1>
+                                        <p class="carousel-caption-text hidden-sm hidden-xs">
 
 
-                        </p>
-                    </div>
-                </div>
+                                        </p>
+                                    </div>
+                                </div>-->
             </div>
 
             <!-- Controls -->
@@ -70,9 +70,12 @@ include("head.php");
         </div>
     </div>
 </div>
-<?php
-include("foot.php");
-?>
+
+<div class='container'>
+
+    <?php
+    include("foot.php");
+    ?>
 
 
 

@@ -18,9 +18,11 @@
 
         <link rel="stylesheet" href="/css/main.css" media="screen">
 
-    <div class='container-fluid'>
-        <div class='row'>
-            <nav class="navbar-static-top navbar">
+
+    </head>
+    <body>
+        <div class='container'>
+            <div class='row'>
                 <div class='col-lg-5'>
                     <ul class="nav nav-pills">
                         <li><a href="index.php">Home</a></li>
@@ -28,6 +30,7 @@
                         <li><a href="history.php">History</a></li>
                     </ul>
                 </div>
+
 
                 <div class='col-lg-2'>
                     <img src='images/logo.png'>
@@ -39,15 +42,33 @@
                         <li><a href="equip.php">Equipment & Services</a></li>
                     </ul>
                 </div>
-            </nav>
+            </div>
         </div>
-    </div>
-</div>
-</head>
-<body>
-    <div id="bodywrap" class='container'>
-        <div class='row'>
-            <div class='col-lg-12'>
+
+
+        <!--        <div class='container visable-sm'>
+                    <div class='row'>
+                        <div class='col-lg-2'>
+                            <img src='images/logo.png'>
+                        </div>
+
+                        <div class='col-lg-10'>
+                            <ul class="nav nav-pills">
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
+                                <li><a href="history.php">History</a></li>
+                                <li><a href="photo.php">Photo Gallery</a></li>
+                                <li><a href="equip.php">Equipment & Services</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>-->
+
+
+        <div id="bodywrap" class='container'>
+            <div class='row'>
+                <div class='col-lg-12'>
+
 
 
 

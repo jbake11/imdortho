@@ -12,12 +12,11 @@ include("head.php");
 <div class='container-fluid'>
     <div class="row">
         <h3>We offer a full range of in-house
-            services, including:</h3>
-
-
-        <div class="col-lg-6">
+            services, including:
+        </h3>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
             <ul>
-                <li id='listItems'>Swiss Lathes</li>
+                <li>Swiss Lathes</li>
                 <li>Wire EDMs</li>
                 <li>Welding</li>
                 <li>Blasting</li>
@@ -28,7 +27,7 @@ include("head.php");
                 <li>Department</li>
             </ul>
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
             <ul>
                 <li>CNC Mills</li>
                 <li>Waterjets</li>
@@ -41,7 +40,7 @@ include("head.php");
     </div>
     <div class="row">
         <h3>Access to nearby services:</h3>
-        <div class="col-lg-6">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
             <ul>
                 <li>Heat Treating</li>
                 <li>Anodizing</li>
@@ -50,7 +49,7 @@ include("head.php");
                 <li>Gun Drilling</li>
             </ul>
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
             <ul>
                 <li>Electro-Polishing</li>
                 <li>Passivation</li>

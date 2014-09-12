@@ -1,8 +1,39 @@
 
 <?php
+
 include("head.php");
 ?>
 
+<script>
+    function validate()
+    {
+        var name = document.getElementById('name').value;
+        var email = document.getElementById('email').value;
+        var city = document.getElementById('city').value;
+        var zip = document.getElementById('zip').value;
+        var address = document.getElementById('address').value;
+        if (name == '' || name == "undefined") {
+            alert("Please Enter Your Name.");
+            return false;
+        }
+        if (email == '' || email == "undefined") {
+            alert("Please Enter Your Email.");
+            return false;
+        }
+        if (city == '' || city == "undefined") {
+            alert("Please Enter Your City.");
+            return false;
+        }
+        if (zip == '' || zip == "undefined") {
+            alert("Please Enter Your ZipCode.");
+            return false;
+        }
+        if (address == '' || address == "undefined") {
+            alert("Please Enter Your Address.");
+            return false;
+        }
+    }
+</script>
 
 <div class='container'>
     <div class="row">
@@ -18,57 +49,55 @@ include("head.php");
 
 <div class='container'>
     <div class='row'>
-        <div class='col-lg-6'>
+        <div class='col-lg-6 address'>
             <p><b>INSTRUMENTAL MACHINE & DEVELOPMENT</b></p>
-            <p id='textAlignCenter'>2098 N. Pound Drive,</p>
-            <p id='textAlignCenter'>West Warsaw, Indiana 46582</p>
-            <p id='textAlignCenter'>574-267-7713</p>
+            <p>2098 N. Pound Drive,</p>
+            <p>West Warsaw, Indiana 46582</p>
+            <p>574-267-7713</p>
         </div>
 
 
         <div class='col-lg-6'>
-            <form class='form'>
+            <form action="contact.php" method='POST' class='form'>
                 <fieldset>
                     <legend>Email Us For More Information</legend>
 
-                    <div class="input-group input-group-lg">
-                        <span class="input-group-addon">Name</span>
-                        <input name='firstname' type="text" class="form-control" placeholder="Your Name">
+                    <div class="form-group">
+                        <label>Name</label>
+                        <input name='name' type="text" class="form-control" placeholder="Your Name">
                     </div>
                     <br>
-                    <div class="input-group input-group-lg">
-                        <span class="input-group-addon">@Email</span>
+                    <div class="form-group">
+                        <label>@Email</label>
                         <input name='email' type="text" class="form-control" placeholder="address@domain.com">
                     </div>
                     <br>
-                    <div class="input-group input-group-lg">
-                        <span class="input-group-addon">Address</span>
+                    <div class="form-group">
+                        <label>Address</label>
                         <input name='address' type="text" class="form-control" placeholder="Your Address">
                     </div>
                     <br>
-                    <div class="input-group input-group-lg">
-                        <span class="input-group-addon">City</span>
-                        <input name='city' type="text" class="form-control" placeholder="Your City">
+                    <div class="form-group">
+                        <label>City, State</label>
+                        <input name='citystate' type="text" class="form-control" placeholder="City, State">
                     </div>
                     <br>
-                    <div class="input-group input-group-lg">
-                        <span class="input-group-addon">State</span>
-                        <input name='state' type="select" class="form-control" placeholder="Your State">
-                    </div>
-                    <br>
-                    <div class="input-group input-group-lg">
-                        <span class="input-group-addon">Zip</span>
+                    <div class="form-group">
+                        <label>Zipcode</label>
                         <input name='zip' type="text" class="form-control" placeholder="xxxxx">
                     </div>
                     <br>
-                    <textarea name='message' rows='15' cols='40'>
+                    <div class="form-group">
+                        <label>Message</label>
+                        <textarea class='form-control' name='message' rows='15' cols='40'>
 
-                    </textarea>
-                    <div class='col-sm-6'>
-                        <input type="checkbox" name="brochure" value="Bike">Please send me a company brochure<br>
+                        </textarea>
                     </div>
                     <div class='col-sm-6'>
-                        <button type="submit" class="btn btn-primary">Submit</button>
+                        <input name='brochure' type="checkbox" name="brochure" value="1"> Please send me a company brochure<br>
+                    </div>
+                    <div class='col-sm-6'>
+                        <button name='send' type="submit" class="btn btn-primary btn-block">Submit</button>
                     </div>
 
                 </fieldset>
@@ -78,5 +107,6 @@ include("head.php");
 </div>
 
 <?php
+
 include("foot.php");
-?>
+
