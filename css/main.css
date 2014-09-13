@@ -107,11 +107,11 @@ body {
 }
 
 h1{
-    font-size: 3em;
+    font-size: 2em;
 }
 
 h3{
-    font-size: 1.5em;
+    font-size: 1em;
 }
 .footerBar{
     /*    margin-top: 10px;
@@ -236,13 +236,25 @@ h3{
     width: 100%;
 }
 
+#equipment a{
+    margin-left: 50px;
+}
+
+#products a{
+    margin-left: 50px;
+}
+
+#employment a{
+
+}
+
 #equipment{
     padding-left: 0;
     background: url('/images/gears.jpg') no-repeat;
     margin-left: -52px;
     list-style-type: none;
     margin-top: -42px;
-    font-size: 34px;
+    font-size: 2em;
 }
 
 #products{
@@ -251,7 +263,7 @@ h3{
     margin-left: -52px;
     list-style-type: none;
     margin-top: -42px;
-    font-size: 34px;
+    font-size: 2em;
 }
 
 #employment{
@@ -260,5 +272,5 @@ h3{
     margin-left: -52px;
     list-style-type: none;
     margin-top: -42px;
-    font-size: 34px;
+    font-size: 2em;
 }

@@ -74,15 +74,21 @@ include("head.php");
 <div class='container indexContent'>
     <div class='row'>
         <div class='col-sm-4'>
-            <li id='equipment'><a href='equip.php'>Equipment</a></li>
+            <ul>
+                <li id='equipment'><a href='equip.php'>Equipment</a></li>
+            </ul>
             IMD utilizes the latest technology for orthopedic tool production. We offer a full line of in-house production mills, lathes, metal markers, cutting equipment and finishers. If specialized tool applications are required, we have the resources to complete the job to your specifications and satisfaction.
         </div>
         <div class='col-sm-4'>
-            <li id='products'><a href='photo.php'>Product Samples</a></li>
+            <ul>
+                <li id='products'><a href='photo.php'>Product Samples</a></li>
+            </ul>
             We've been supplying the orthopedic industry with surgical instrumentation since 1991. Other the years the surgical procedures have advances and become less invasive thanks to the advancements in tool surgical instrument engineering and production processes. Visit our Gallery of view the various tools we have produced.
         </div>
         <div class='col-sm-4'>
-            <li id='employment'><a href='employ.php'>Employment</a></li>
+            <ul>
+                <li id='employment'><a href='employ.php'>Employment</a></li>
+            </ul>
             IMD is an equal opportunity employer. We seek out candidates that share our vision for excellence and drive for customer satisfaction. If you would like to become part of the IMD family, please contact us for more information on available positions.
         </div>
     </div>
