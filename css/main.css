@@ -14,7 +14,13 @@ a{
 
 /* mouse over link */
 a:hover {
-    color: #FF00FF;
+    text-decoration: none;
+    color: white;
+}
+
+.nav>li>a:hover, .nav>li>a:focus {
+    text-decoration: none;
+    background-color: #167bbf;
 }
 
 /* selected link */
@@ -67,12 +73,13 @@ a:active {
 
 .footText{
     color: white;
-    font-size: 15px;
+    font-size: 1.5em;
 }
 
 .footTitle{
     color: white;
-    font-size: 30px;
+    font-size: 3em;
+    margin-bottom: -5px;
 }
 
 .footCopyrightText{
@@ -99,6 +106,13 @@ body {
 
 }
 
+h1{
+    font-size: 3em;
+}
+
+h3{
+    font-size: 1.5em;
+}
 .footerBar{
     /*    margin-top: 10px;
         margin-bottom: 10px;*/
@@ -112,11 +126,16 @@ body {
     margin-top: 40px;
 }
 
-#footer{
-    background: url('/images/footerbg.jpg') no-repeat;
-    background-size: cover;
-    min-height: 400px;
+#footer hr{
+    margin-top: -2px;
+    background-color: white;
+    height: 2px;
+}
 
+#footer{
+    background: url('/images/footerbg.jpg') no-repeat top right;
+    background-size: cover;
+    min-height: 500px;
 }
 
 #footer h3{
@@ -143,6 +162,12 @@ body {
 #rightnav{
     float: left;
     margin-top: 30px;
+}
+
+.hide-bullets {
+    list-style:none;
+    margin-left: -40px;
+    margin-top:20px;
 }
 
 .transition-timer-carousel .carousel-caption {
