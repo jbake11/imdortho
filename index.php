@@ -69,7 +69,7 @@ include("head.php");
     </div>
 </div>
 
-
+<div class='clearfix'></div>
 
 <div class='container indexContent'>
     <div class='row'>
