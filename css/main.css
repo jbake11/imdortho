@@ -241,7 +241,11 @@ h3{
 }
 
 #products a{
-    margin-left: 50px;
+    margin-left: 40px;
+}
+
+#employment a{
+    margin-left: -5px;
 }
 
 #equipment ul, #products ul, #employment ul{
@@ -253,7 +257,7 @@ h3{
 #equipment{
     padding-left: 0;
     background: url('/images/gears.jpg') no-repeat;
-    margin-left: -52px;
+    margin-left: -39px;
     list-style-type: none;
     margin-top: -42px;
     font-size: 2em;
@@ -262,7 +266,7 @@ h3{
 #products{
     padding-left: 0;
     background: url('/images/pliers.jpg') no-repeat;
-    margin-left: -52px;
+    margin-left: -47px;
     list-style-type: none;
     margin-top: -42px;
     font-size: 2em;
@@ -270,8 +274,8 @@ h3{
 
 #employment{
     padding-left: 0;
-    list-style-image: url('/images/man.png');
-    list-style-type: none;
+    /*    list-style-image: url('/images/man.png');
+        list-style-type: none;*/
     margin-top: -42px;
     font-size: 2em;
 }
