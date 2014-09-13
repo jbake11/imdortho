@@ -233,19 +233,27 @@ h3{
 
 .carousel-inner>.item>img, .carousel-inner>.item>a>img {
     line-height: 1;
-    width: 100%;
+    width: 99%;
 }
 
 #equipment a{
-    margin-left: 50px;
+    vertical-align: super;
+    margin-left: 53px;
 }
 
 #products a{
-    margin-left: 40px;
+    vertical-align: super;
+    margin-left: 42px;
 }
 
 #employment a{
     vertical-align: super;
+    margin-left: -9px;
+}
+
+#equipment a:hover, #products a:hover, #employment a:hover{
+    color: #167bbf
+
 }
 
 #equipment ul, #products ul, #employment ul{
@@ -259,24 +267,32 @@ h3{
     background: url('/images/gears.png') no-repeat;
     margin-left: -39px;
     list-style-type: none;
-    margin-top: -42px;
+    margin-top: -39px;
     font-size: 2em;
 }
 
 #products{
     padding-left: 0;
     background: url('/images/pliers.png') no-repeat;
-    margin-left: -42px;
+    margin-left: -52px;
     list-style-type: none;
-    margin-top: -30px;
+    margin-top: -39px;
     font-size: 2em;
 }
 
 #employment{
     padding-left: 0;
-    margin-left: -10px;
     list-style-image: url('/images/man.png');
     list-style-type: none;
     margin-top: -42px;
+    margin-bottom: 0px;
+    margin-left: 0px;
     font-size: 2em;
 }
+
+@media (max-width: 767px) {
+    #equipment, #employment, #products{
+        margin-top: 50px;
+    }
+}
+
