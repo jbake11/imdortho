@@ -11,11 +11,11 @@ include("head.php");
                 For quality and personal service for medical devices and instruments, we’re your source!</h3>
         </div>
     </div>
+    <h3>We offer a full range of in-house services, including:</h3>
     <div class='row'>
-        <div class='row'>
-            <div class='col-lg-6'>
-                <h3>We offer a full range of in-house services, including:</h3>
-                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+        <div class='col-lg-6 col-md-6 col-sm-12'>
+            <div class='row'>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                     <ul>
                         <li>Swiss Lathes</li>
                         <li>Wire EDMs</li>
@@ -28,7 +28,7 @@ include("head.php");
                         <li>Department</li>
                     </ul>
                 </div>
-                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                     <ul>
                         <li>CNC Mills</li>
                         <li>Waterjets</li>
@@ -39,31 +39,36 @@ include("head.php");
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-                <img class='img-responsive' src='images/services/production_2.jpg'>
-            </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <img class='img-responsive' src='images/services/production_2.jpg'>
         </div>
     </div>
+    <h3>Access to nearby services:</h3>
     <div class="row">
-        <h3>Access to nearby services:</h3>
-        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-            <ul>
-                <li>Heat Treating</li>
-                <li>Anodizing</li>
-                <li>Chrome Coating</li>
-                <li>Tin Coating</li>
-                <li>Gun Drilling</li>
-            </ul>
+        <div class='col-lg-6 col-md-6 col-sm-12 col-xs-12'>
+            <div class='row'>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                    <ul>
+                        <li>Heat Treating</li>
+                        <li>Anodizing</li>
+                        <li>Chrome Coating</li>
+                        <li>Tin Coating</li>
+                        <li>Gun Drilling</li>
+                    </ul>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                    <ul>
+                        <li>Electro-Polishing</li>
+                        <li>Passivation</li>
+                        <li>Silk Screening</li>
+                        <li>Plastic Coating</li>
+                    </ul>
+                </div>
+            </div>
+
         </div>
-        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-            <ul>
-                <li>Electro-Polishing</li>
-                <li>Passivation</li>
-                <li>Silk Screening</li>
-                <li>Plastic Coating</li>
-            </ul>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
             <img class='img-responsive' src='images/services/waterjet.jpg'>
         </div>
     </div>
@@ -71,7 +76,7 @@ include("head.php");
     <div class="row">
         <h1>Equipment</h1>
         <h3>IMD combines knowledge, experience and a broad range of manufacturing equipment to design and provide medical devices.</h3>
-        <div class="col-lg-12">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
             <ul>
                 <li>Mazak CNC Mills</li>
                 <li>Haas CNC Mills</li>
@@ -86,6 +91,9 @@ include("head.php");
                 <li>Blanchard Grinder</li>
                 <li>Various Manual & Finishing Equipment</li>
             </ul>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <img class='img-responsive' src='images/services/production_3.jpg'>
         </div>
     </div>
 </div>
