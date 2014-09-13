@@ -2,12 +2,14 @@
 <?php
 include("head.php");
 ?>
-<h1>Services</h1>
-<h3>From design development to single and total manufacturing, we are dedicated to meeting the demands of today’s “just-in-time” inventory philosophy.
-    For quality and personal service for medical devices and instruments,
-    we’re your source!</h3>
+
 <div class='container-fluid'>
     <div class="row">
+        <h1>Services</h1>
+        <h3>From design development to single and total manufacturing, we are dedicated to meeting the demands of today’s “just-in-time” inventory philosophy.
+            For quality and personal service for medical devices and instruments,
+            we’re your source!</h3>
+
         <h3>We offer a full range of in-house
             services, including:
         </h3>
@@ -64,10 +66,9 @@ include("head.php");
 
     <div class="row">
         <h1>Equipment</h1>
-        <h3>IMD combines knowledge, experience and a broad range of manufacturing equipment to design and provide
-            medical devices.</h3>
-        <div class="col-lg-12"
-             <ul>
+        <h3>IMD combines knowledge, experience and a broad range of manufacturing equipment to design and provide medical devices.</h3>
+        <div class="col-lg-12">
+            <ul>
                 <li>Mazak CNC Mills</li>
                 <li>Haas CNC Mills</li>
                 <li>Star SR32</li>
@@ -82,13 +83,9 @@ include("head.php");
                 <li>Various Manual & Finishing Equipment</li>
             </ul>
         </div>
-
-
-
-
     </div>
 </div>
 </div>
 <?php
 include("foot.php");
-?>
+
