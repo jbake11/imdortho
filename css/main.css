@@ -65,6 +65,14 @@ a:active {
     font-size: 30px;
 }
 
+.footCopyrightText{
+    font-size: 16px;
+    color: white;
+    margin-top: 20px;
+}
+
+
+
 li {
     font-size: 18px;
 }
@@ -83,12 +91,17 @@ body {
 
 }
 
-.indexContent{
-    margin-top: 40px;
+.footerBar{
+    /*    margin-top: 10px;
+        margin-bottom: 10px;*/
+    font-size: 18px;
+    background-color: #163465;
+    min-height: 70px;
+    padding-top: 10px;
 }
 
-.textAlignCenter{
-    text-align: center;
+.indexContent{
+    margin-top: 40px;
 }
 
 #footer{
@@ -123,8 +136,6 @@ body {
     float: left;
     margin-top: 30px;
 }
-
-
 
 .transition-timer-carousel .carousel-caption {
     background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.1) 4%, rgba(0,0,0,0.5) 32%, rgba(0,0,0,1) 100%); /* FF3.6+ */
@@ -198,7 +209,7 @@ body {
     margin-left: -52px;
     list-style-type: none;
     margin-top: -42px;
-    font-size: 36px;
+    font-size: 34px;
 }
 
 #products{
@@ -207,8 +218,7 @@ body {
     margin-left: -52px;
     list-style-type: none;
     margin-top: -42px;
-    font-size: 36px;
-
+    font-size: 34px;
 }
 
 #employment{
@@ -217,5 +227,5 @@ body {
     margin-left: -52px;
     list-style-type: none;
     margin-top: -42px;
-    font-size: 36px;
+    font-size: 34px;
 }

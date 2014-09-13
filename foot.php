@@ -22,17 +22,20 @@
         </div>
     </div>
 </div>
-<div class='container-fluid'>
-    <div class="row">
-        <div class="col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 col-lg-8 col-md-8 col-sm-8 col-xs-8">
-            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 nwrap">
-                <a href="http://www.anab.org/">ANAB</a>
-            </div>
 
+
+
+<div class='container-fluid footerBar'>
+    <div class="row">
+        <div class="footCopyrightText col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 col-lg-8 col-md-8 col-sm-8 col-xs-8">
+            © 2014 Instrumental Machine & Development, Inc. All Rights Reserved.
+        </div>
+        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 nwrap">
+            <a href="images/ISO_Cert.pdf"><img src='images/pjicon.png'></a>
+            <a href="http://www.anab.org/"><img src='images/anabicon.png'></a>
+            <a href="#"><img src='images/fbicon.png'></a>
         </div>
     </div>
 </div>
-
-
 </body>
 </html>
