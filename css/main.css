@@ -64,7 +64,7 @@ a:active {
 }
 
 .nwrap{
-    whitespace: nowrap;
+    white-space: nowrap;
 }
 
 .transp{
@@ -145,12 +145,12 @@ h3{
 }
 
 #leftnav li{
-    margin-right: 40px;
+    margin-right: 20px;
 
 }
 
 #rightnav li{
-    margin-right: 40px;
+    margin-right: 9px;
 }
 
 #leftnav{
@@ -296,3 +296,8 @@ h3{
     }
 }
 
+@media (max-width: 992px) {
+    #leftnav li, #rightnav li{
+        margin-right: 10px;
+    }
+}
