@@ -21,30 +21,14 @@ include("head.php");
             <div class="carousel-inner">
                 <div class="item active">
                     <img  src="/images/slider/panel_1.jpg" />
-                    <div class="carousel-caption">
-                        <h1 class="carousel-caption-header"></h1>
-
-                    </div>
                 </div>
 
                 <div class="item">
                     <img src="/images/slider/panel_2.jpg" />
-                    <div class="carousel-caption">
-                        <p class="carousel-caption-text hidden-sm hidden-xs">
-
-                        </p>
-                    </div>
                 </div>
 
                 <div class="item">
                     <img src="/images/slider/panel_3.jpg" />
-                    <div class="carousel-caption">
-                        <h1 class="carousel-caption-header">Slide 3</h1>
-                        <p class="carousel-caption-text hidden-sm hidden-xs">
-
-
-                        </p>
-                    </div>
                 </div>
             </div>
 
