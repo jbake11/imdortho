@@ -7,27 +7,19 @@ include("head.php");
 <script type='text/javascript'>
     jQuery(document).ready(function($) {
 
-        $('#myCarousel').carousel({
-            interval: 5000
-        });
-
-        $('#carousel-text').html($('#slide-content-0').html());
-
-        //Handles the carousel thumbnails
-        $('[id^=carousel-selector-]').click(function() {
-            var id_selector = $(this).attr("id");
+    $('#myCarousel1').carousel({
+    interval: 5000
+    });
+            //Handles the carousel thumbnails
+            $('[id^=carousel-selector-]').click(function() {
+    var id_selector = $(this).attr("id");
             var id = id_selector.substr(id_selector.length - 1);
             var id = parseInt(id);
-            $('#myCarousel').carousel(id);
-        });
-
-
-        // When the carousel slides, auto update the text
-        $('#myCarousel').on('slid.bs.carousel', function(e) {
-            var id = $('.item.active').data('slide-number');
-            $('#carousel-text').html($('#slide-content-' + id).html());
-        });
+            $('#myCarousel1').carousel(id);
     });
+
+
+
 </script>
 
 <div class='container-fluid'>
@@ -35,8 +27,8 @@ include("head.php");
 </div>
 
 <div class='container-fluid'>
-    <h3>IMD Specializes in a number of production processes for the Orthopaedic Industry. Below is a gallery
-        of products we have manufactured for various clients.</h3>
+    IMD Specializes in a number of production processes for the Orthopaedic Industry. Below is a gallery
+    of products we have manufactured for various clients.
 </div>
 
 
@@ -166,8 +158,6 @@ include("head.php");
                 <li class="col-sm-2">
                     <a class="thumbnail" id="carousel-selector-14"><img src="images/gallery/aluminum_remnants.jpg" alt=""/></a>
                 </li>
-
-
             </ul>
         </div>
     </div>
