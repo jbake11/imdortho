@@ -7,7 +7,7 @@ include("head.php");
 <script type='text/javascript'>
     jQuery(document).ready(function($) {
 
-    $('#myCarousel1').carousel({
+    $('#myCarousel').carousel({
     interval: 5000
     });
             //Handles the carousel thumbnails
@@ -15,10 +15,8 @@ include("head.php");
     var id_selector = $(this).attr("id");
             var id = id_selector.substr(id_selector.length - 1);
             var id = parseInt(id);
-            $('#myCarousel1').carousel(id);
+            $('#myCarousel').carousel(id);
     });
-
-
 
 </script>
 
@@ -30,8 +28,6 @@ include("head.php");
     IMD Specializes in a number of production processes for the Orthopaedic Industry. Below is a gallery
     of products we have manufactured for various clients.
 </div>
-
-
 
 <div class="container-fluid">
     <div id="main_area">
@@ -87,7 +83,7 @@ include("head.php");
                                     <img src="images/gallery/Tools-15.jpg"></div>
 
                                 <div class="item" data-slide-number="14">
-                                    <img src="aluminum_remnants.jpg"></div>
+                                    <img src="images/gallery/aluminum_remnants.jpg"></div>
                             </div>
                         </div>
                     </div>
