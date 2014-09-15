@@ -264,12 +264,13 @@ h3{
 .footText{
     color: white;
     font-size: 1em;
+    margin-top: -15px;
 }
 
 .footTitle{
     color: white;
     font-size: 2em;
-    margin-bottom: -5px;
+    margin-bottom: 2.5px;
 }
 
 .footCopyrightText{
