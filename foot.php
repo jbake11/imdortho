@@ -4,16 +4,16 @@
 </div>
 </div>
 
-<div id='footer' class="container-fluid" >
+<div id='footer' class="container-fluid image-responsive" >
     <div class="row" >
-        <div class='col-lg-3 col-md-3 col-sm-6 col-xs-6'>
-            <a href='history.php'><h3 class="footTitle">About</h3></a>
+        <div class='col-lg-3 col-md-3 col-sm-6 col-xs-6 col-lg-offset-1'>
+            <a href='history.php'><h1 class="footTitle">About</h1></a>
             <hr />
             <p class='footText'>Instrumental Machine & Development (IMD) was founded in 1991, originally located in Milford, Indiana. In the fall of 1992, the need for more manufacturing space provided the opportunity for IMD to move to Warsaw, Indiana.</p>
         </div>
 
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-6'>
-            <a href='contact.php'><h3 class="footTitle">Contact Us</h3></a>
+            <a href='contact.php'><h1 class="footTitle">Contact Us</h1></a>
             <hr />
             <p class='footText'>INSTRUMENTAL MACHINE & DEVELOPMENT<br />
                 2098 N. Pound Drive, West<br />

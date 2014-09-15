@@ -133,9 +133,10 @@ h3{
 }
 
 #footer{
-    background: url('/images/footerbg.jpg') no-repeat top right;
-    background-size: cover;
-    min-height: 500px;
+    background: url('/images/footertool.png') no-repeat top right;
+    background-size: contain;
+    background-color: #167bbf;
+    /*    min-height: 300px;*/
 }
 
 #footer h3{
