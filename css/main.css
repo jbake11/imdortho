@@ -261,15 +261,6 @@ h3{
     height: 1px;
 }
 
-#footer{
-    background: url('/images/footertool.png') no-repeat top right;
-    background-size: contain;
-    background-color: #167bbf;
-    margin-top: 80px;
-
-
-}
-
 .footText{
     color: white;
     font-size: 1em;
@@ -298,6 +289,7 @@ h3{
 
     #footer{
         background-color: #167bbf;
+        margin-top: 80px;
     }
 
 }
@@ -309,10 +301,23 @@ h3{
 
     #footer{
         background-color: #167bbf;
+        margin-top: 80px;
     }
 
 }
 
+@media (min-width: 992px) {
+
+    #footer{
+        background: url('/images/footertool.png') no-repeat top right;
+        background-size: contain;
+        background-color: #167bbf;
+        margin-top: 80px;
+
+
+    }
+
+}
 
 
 
