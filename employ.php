@@ -40,7 +40,7 @@ include("head.php");
         <div class="col-lg-12">
             <h1>Employment</h1>
 
-            <p>IMD is an equal opportunity employer. We seek out candidates that share our vision for excellence and drive for customer satisfaction. If you would like to become part of the IMD family, please contact us for more information on available positions. </p>
+            IMD is an equal opportunity employer. We seek out candidates that share our vision for excellence and drive for customer satisfaction. If you would like to become part of the IMD family, please contact us for more information on available positions. 
         </div>
     </div>
 </div>
