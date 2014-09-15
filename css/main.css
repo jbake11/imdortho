@@ -270,12 +270,6 @@ h3{
 
 }
 
-#footer h3{
-    margin-top: 100px;
-    margin-bottom: 1px;
-
-}
-
 .footText{
     color: white;
     font-size: 1em;
@@ -294,7 +288,7 @@ h3{
 }
 
 .textPadding{
-
+    margin-left: 20px;
 }
 
 @media (max-width: 767px) {
