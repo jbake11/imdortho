@@ -12,10 +12,10 @@ include("head.php");
     </div>
 </div>
 
-<div class='container'>
+<div class='container-fluid'>
     <div class='row'>
         <div class='col-lg-12'>
-            <img src='images/building/2015_building.jpg'>
+            <img class='img-responsive' src='images/building/2015_building.jpg'>
         </div>
     </div>
 </div>

@@ -27,7 +27,7 @@
 
     </head>
     <body>
-        <div class='container'>
+        <div class='container-fluid hidden-xs hidden-sm'>
             <div class='row'>
                 <div class='col-lg-5 col-md-5'>
                     <ul id='leftnav' class="nav nav-pills">
@@ -36,7 +36,6 @@
                         <li><a href="history.php">History</a></li>
                     </ul>
                 </div>
-
 
                 <div class='col-lg-2 col-md-2 transp'>
                     <a href="index.php"><img src='images/logo.png'></a>
@@ -51,6 +50,32 @@
             </div>
         </div>
 
+
+        <div class='container hidden-lg hidden-md'>
+            <div class='row'>
+                <div class='col-xs-2 col-sm-2 transp'>
+                    <a href="index.php"><img class='image-responsive' src='images/logo.png'></a>
+                </div>
+                <div class='col-xs-3 col-sm-3 transp'>
+                    <ul id='leftnav' class="nav nav-pills">
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="contact.php">Contact Us</a></li>
+                    </ul>
+                </div>
+                <div class='col-xs-3 col-sm-3 transp'>
+                    <ul id='centernav' class="nav nav-pills">
+                        <li><a href="history.php">History</a></li>
+                        <li><a href="photo.php">Photo Gallery</a></li>
+                    </ul>
+                </div>
+
+                <div class='col-xs-3 col-sm-3 transp'>
+                    <ul id='leftnav' class="nav nav-pills">
+                        <li><a href="equip.php">Equipment & Services</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
 
         <div id="bodywrap" class='container'>
             <div class='row'>

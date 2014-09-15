@@ -45,11 +45,6 @@ a:active {
     padding-right: 0px;
 }
 
-.arrangeThumbs img{
-    height: 125px;
-    width:  190px;
-
-}
 
 .thumb-table{
     display: table;
@@ -115,25 +110,7 @@ h3{
 }
 
 
-#leftnav li{
-    margin-right: 20px;
 
-}
-
-#rightnav li{
-    margin-right: 9px;
-}
-
-#leftnav{
-    float: right;
-    margin-top: 30px;
-
-}
-
-#rightnav{
-    float: left;
-    margin-top: 30px;
-}
 
 .hide-bullets {
     list-style:none;
@@ -244,9 +221,29 @@ h3{
         margin-top: 80px;
     }
 
+    #leftnav{
+        margin-bottom: 80px;
+        padding-left: 80px;
+    }
+
+    #centernav{
+        margin-bottom: 80px;
+        padding-left: 50px;
+    }
+
+    #rightnav{
+        margin-bottom: 80px;
+    }
+
+    .transp img{
+        z-index: 999;
+        padding-bottom: 50px;
+    }
+
 }
 
 @media (max-width: 992px) {
+
     #leftnav li, #rightnav li{
         margin-right: 10px;
     }
@@ -256,7 +253,21 @@ h3{
         margin-top: 80px;
     }
 
+    .arrangeThumbs img{
+        height: 85px;
+        width:  150px;
+
+    }
+
 }
+
+
+@media (max-width: 1200px) {
+    .nav {
+        padding-left: 40px;
+    }
+}
+
 
 @media (min-width: 992px) {
 
@@ -265,8 +276,33 @@ h3{
         background-size: contain;
         background-color: #167bbf;
         margin-top: 80px;
+    }
 
+    .arrangeThumbs{
+        margin-top: 50px;
+    }
 
+    .arrangeThumbs img{
+        height: 125px;
+        width:  190px;
+    }
+
+    #leftnav li{
+        margin-right: 20px;
+    }
+
+    #rightnav li{
+        margin-right: 9px;
+    }
+
+    #leftnav{
+        float: right;
+        margin-top: 30px;
+    }
+
+    #rightnav{
+        float: left;
+        margin-top: 30px;
     }
 
 }
