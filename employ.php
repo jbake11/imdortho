@@ -50,7 +50,7 @@ include("head.php");
     <div class='row'>
         <div class='col-lg-6 address'>
             <b>INSTRUMENTAL MACHINE & DEVELOPMENT</b><br />
-            2098 N. Pound Drive West,<br />
+            2098 N. Pound Drive, West<br />
             Warsaw, Indiana 46582<br />
             574-267-7713
         </div>
