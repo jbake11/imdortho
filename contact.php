@@ -40,8 +40,8 @@ include("head.php");
         <div class="col-lg-12">
             <h1>Contact Us</h1>
 
-            <p>Thank you for your interest in IMD. Please fill out the fields listed below and we will get back with you
-                in a timely manner. Please let us know the best way to reach you (email, phone, etc.). </p>
+            Thank you for your interest in IMD. Please fill out the fields listed below and we will get back with you
+            in a timely manner. Please let us know the best way to reach you (email, phone, etc.). 
         </div>
     </div>
 </div>

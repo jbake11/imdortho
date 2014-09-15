@@ -35,8 +35,8 @@ include("head.php");
 </div>
 
 <div class='container-fluid'>
-    <h2>IMD Specializes in a number of production processes for the Orthopaedic Industry. Below is a gallery
-        of products we have manufactured for various clients.</h2>
+    <h3>IMD Specializes in a number of production processes for the Orthopaedic Industry. Below is a gallery
+        of products we have manufactured for various clients.</h3>
 </div>
 <!--####
 1OK) Add jQuery library "<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>"
