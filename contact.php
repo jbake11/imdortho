@@ -41,7 +41,7 @@ include("head.php");
             <h1>Contact Us</h1>
 
             Thank you for your interest in IMD. Please fill out the fields listed below and we will get back with you
-            in a timely manner. Please let us know the best way to reach you (email, phone, etc.). 
+            in a timely manner. Please let us know the best way to reach you (email, phone, etc.).
         </div>
     </div>
 </div>
@@ -50,10 +50,10 @@ include("head.php");
 <div class='container'>
     <div class='row'>
         <div class='col-lg-6 address'>
-            <p><b>INSTRUMENTAL MACHINE & DEVELOPMENT</b></p>
-            <p>2098 N. Pound Drive,</p>
-            <p>West Warsaw, Indiana 46582</p>
-            <p>574-267-7713</p>
+            <b>INSTRUMENTAL MACHINE & DEVELOPMENT</b><br />
+            2098 N. Pound Drive West,<br />
+            Warsaw, Indiana 46582<br />
+            574-267-7713
         </div>
 
 

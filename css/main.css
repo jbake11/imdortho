@@ -8,6 +8,10 @@ and open the template in the editor.
     Author     : Jeff
 */
 
+.form{
+    margin-bottom:  10px;
+}
+
 a{
     color: #676767;
 }
@@ -28,9 +32,6 @@ a:active {
     color: #0000FF;
 }
 
-.form-group label {
-    font-size: 18px;
-}
 
 #sliderWrite{
     margin: 0;
@@ -75,7 +76,7 @@ li {
     /*    font-size: 18px;*/
 }
 
-.address p{
+.address {
     text-align: center;
 }
 
@@ -97,8 +98,6 @@ h3{
     font-size: 1em;
 }
 .footerBar{
-    /*    margin-top: 10px;
-        margin-bottom: 10px;*/
     font-size: 18px;
     background-color: #163465;
     min-height: 70px;
@@ -266,6 +265,8 @@ h3{
     background: url('/images/footertool.png') no-repeat top right;
     background-size: contain;
     background-color: #167bbf;
+    margin-top: 80px;
+
 
 }
 
@@ -322,4 +323,3 @@ h3{
 
 
 
-}

@@ -40,7 +40,7 @@ include("head.php");
         <div class="col-lg-12">
             <h1>Employment</h1>
 
-            IMD is an equal opportunity employer. We seek out candidates that share our vision for excellence and drive for customer satisfaction. If you would like to become part of the IMD family, please contact us for more information on available positions. 
+            IMD is an equal opportunity employer. We seek out candidates that share our vision for excellence and drive for customer satisfaction. If you would like to become part of the IMD family, please contact us for more information on available positions.
         </div>
     </div>
 </div>
@@ -49,10 +49,10 @@ include("head.php");
 <div class='container'>
     <div class='row'>
         <div class='col-lg-6 address'>
-            <p><b>INSTRUMENTAL MACHINE & DEVELOPMENT</b></p>
-            <p>2098 N. Pound Drive,</p>
-            <p>West Warsaw, Indiana 46582</p>
-            <p>574-267-7713</p>
+            <b>INSTRUMENTAL MACHINE & DEVELOPMENT</b><br />
+            2098 N. Pound Drive West,<br />
+            Warsaw, Indiana 46582<br />
+            574-267-7713
         </div>
 
 
