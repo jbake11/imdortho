@@ -84,7 +84,7 @@ include("head.php");
             <ul>
                 <li id='products'><a href='photo.php'>Product Samples</a></li>
             </ul>
-            We've been supplying the orthopedic industry with surgical instrumentation since 1991. Other the years the surgical procedures have advances and become less invasive thanks to the advancements in tool surgical instrument engineering and production processes. Visit our Gallery of view the various tools we have produced.
+            We've been supplying the orthopedic industry with surgical instrumentation since 1991. Over the years the surgical procedures have advances and become less invasive thanks to the advancements in tool surgical instrument engineering and production processes. Visit our Gallery of view the various tools we have produced.
         </div>
         <div class='col-sm-4'>
             <ul>
