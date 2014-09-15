@@ -79,6 +79,33 @@ include("head.php");
 
                                 <div class="item" data-slide-number="5">
                                     <img src="images/gallery/5220_gold.jpg"></div>
+
+                                <div class="item" data-slide-number="5">
+                                    <img src="images/gallery/5230_gold.jpg"></div>
+
+                                <div class="item" data-slide-number="5">
+                                    <img src="images/gallery/6620.jpg"></div>
+
+                                <div class="item" data-slide-number="5">
+                                    <img src="images/gallery/6865-04_gold.jpg"></div>
+
+                                <div class="item" data-slide-number="5">
+                                    <img src="images/gallery/7400_handle.jpg"></div>
+
+                                <div class="item" data-slide-number="5">
+                                    <img src="images/gallery/9125.jpg"></div>
+
+                                <div class="item" data-slide-number="5">
+                                    <img src="images/gallery/T1006.jpg"></div>
+
+                                <div class="item" data-slide-number="5">
+                                    <img src="images/gallery/Tools-11.jpg"></div>
+
+                                <div class="item" data-slide-number="5">
+                                    <img src="images/gallery/Tools-15.jpg"></div>
+
+                                <div class="item" data-slide-number="5">
+                                    <img src="aluminum_remnants.jpg"></div>
                             </div>
                         </div>
                     </div>
@@ -113,122 +140,50 @@ include("head.php");
                 <li class="col-sm-2">
                     <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/5220_gold.jpg" alt=""/></a>
                 </li>
+
+                <li class="col-sm-2">
+                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/5230_gold.jpg" alt=""/></a>
+                </li>
+
+                <li class="col-sm-2">
+                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/6620.jpg" alt=""/></a>
+                </li>
+
+                <li class="col-sm-2">
+                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/6865-04_gold.jpg" alt=""/></a>
+                </li>
+
+                <li class="col-sm-2">
+                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/7400_handle.jpg" alt=""/></a>
+                </li>
+
+                <li class="col-sm-2">
+                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/9125.jpg" alt=""/></a>
+                </li>
+
+                <li class="col-sm-2">
+                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/T1006.jpg" alt=""/></a>
+                </li>
+
+                <li class="col-sm-2">
+                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/Tools-11.jpg" alt=""/></a>
+                </li>
+
+                <li class="col-sm-2">
+                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/Tools-15.jpg" alt=""/></a>
+                </li>
+
+                <li class="col-sm-2">
+                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/aluminum_remnants.jpg" alt=""/></a>
+                </li>
+
+
             </ul>
         </div>
     </div>
 </div>
 
 
-<!--<img src="images/gallery/5230_gold.jpg" alt=""/>
-<img src="images/gallery/6620.jpg" alt=""/>
-<img src="images/gallery/6865-04_gold.jpg" alt=""/>
-<img src="images/gallery/7400_handle.jpg" alt=""/>
-<img src="images/gallery/9125.jpg" alt=""/>
-<img src="images/gallery/T1006.jpg" alt=""/>
-<img src="images/gallery/Tools-11.jpg" alt=""/>
-<img src="images/gallery/Tools-15.jpg" alt=""/>
-<img src="images/gallery/aluminum_remnants.jpg" alt=""/>-->
-
-<!--
-<div class="container">
-    <div class="row">
-        <div class='list-group gallery'>
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3 thumb-table'>
-                <div class='thumb-wrap'>
-                    <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/1765-02.jpg">
-                        <img class="img-responsive" alt="" src="/images/gallery/1765-02.jpg" />
-                    </a>
-                </div>
-            </div>  col-6 / end
-
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <div class='thumb-wrap'>
-                    <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/1878.jpg">
-                        <img class="img-responsive" alt="" src="/images/gallery/1878.jpg" />
-                    </a>
-                </div>
-            </div>  col-6 / end
-
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/4240.jpg">
-                    <img class="img-responsive" alt="" src="/images/gallery/4240.jpg" />
-                </a>
-            </div>  col-6 / end
-
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/5201_gold.jpg">
-                    <img class="img-responsive" alt="" src="/images/gallery/5201_gold.jpg" />
-                </a>
-            </div>  col-6 / end
-
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/5211_gold.jpg">
-                    <img class="img-responsive" alt="" src="/images/gallery/5211_gold.jpg" />
-                </a>
-            </div>  col-6 / end
-
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/5220_gold.jpg">
-                    <img class="img-responsive" alt="" src="/images/gallery/5220_gold.jpg" />
-                </a>
-            </div>  col-6 / end
-
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/5230_gold.jpg">
-                    <img class="img-responsive" alt="" src="/images/gallery/5230_gold.jpg" />
-                </a>
-            </div>  col-6 / end
-
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/6620.jpg">
-                    <img class="img-responsive" alt="" src="/images/gallery/6620.jpg" />
-                </a>
-            </div>  col-6 / end
-
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/6865-04_gold.jpg">
-                    <img class="img-responsive" alt="" src="/images/gallery/6865-04_gold.jpg" />
-                </a>
-            </div>  col-6 / end
-
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/7400_handle.jpg">
-                    <img class="img-responsive" alt="" src="/images/gallery/7400_handle.jpg" />
-                </a>
-            </div>  col-6 / end
-
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/9125.jpg">
-                    <img class="img-responsive" alt="" src="/images/gallery/9125.jpg" />
-                </a>
-            </div>  col-6 / end
-
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/T1006.jpg">
-                    <img class="img-responsive" alt="" src="/images/gallery/T1006.jpg" />
-                </a>
-            </div>  col-6 / end
-
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/Tools-11.jpg">
-                    <img class="img-responsive" alt="" src="/images/gallery/Tools-11.jpg" />
-                </a>
-            </div>  col-6 / end
-
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/Tools-15.jpg">
-                    <img class="img-responsive" alt="" src="/images/gallery/Tools-15.jpg" />
-                </a>
-            </div>  col-6 / end
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="/images/gallery/aluminum_remnants.jpg">
-                    <img class="img-responsive" alt="" src="/images/gallery/aluminum_remnants.jpg" />
-                </a>
-            </div>  col-6 / end
-        </div>  list-group / end
-    </div>  row / end
-</div>  container / end
--->
 
 <?php
 

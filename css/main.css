@@ -71,23 +71,6 @@ a:active {
     z-index: 999;
 }
 
-.footText{
-    color: white;
-    font-size: 1em;
-}
-
-.footTitle{
-    color: white;
-    font-size: 2em;
-    margin-bottom: -5px;
-}
-
-.footCopyrightText{
-    font-size: 16px;
-    color: white;
-    margin-top: 20px;
-}
-
 li {
     /*    font-size: 18px;*/
 }
@@ -126,24 +109,6 @@ h3{
     margin-top: 40px;
 }
 
-#footer hr{
-    margin-top: -2px;
-    background-color: white;
-    height: 1px;
-}
-
-#footer{
-    background: url('/images/footertool.png') no-repeat top right;
-    background-size: contain;
-    background-color: #167bbf;
-    /*    min-height: 300px;*/
-}
-
-#footer h3{
-    margin-top: 100px;
-    margin-bottom: 1px;
-
-}
 
 #leftnav li{
     margin-right: 20px;
@@ -291,14 +256,104 @@ h3{
     font-size: 2em;
 }
 
+#footer hr{
+    margin-top: -2px;
+    background-color: white;
+    height: 1px;
+}
+
+#footer{
+    background: url('/images/footertool.png') no-repeat top right;
+    background-size: contain;
+    background-color: #167bbf;
+
+}
+
+#footer h3{
+    margin-top: 100px;
+    margin-bottom: 1px;
+
+}
+
+.footText{
+    color: white;
+    font-size: 1em;
+}
+
+.footTitle{
+    color: white;
+    font-size: 2em;
+    margin-bottom: -5px;
+}
+
+.footCopyrightText{
+    font-size: 16px;
+    color: white;
+    margin-top: 20px;
+}
+
 @media (max-width: 767px) {
     #equipment, #employment, #products{
         margin-top: 50px;
     }
+
+    #footer{
+        background-color: #167bbf;
+    }
+
 }
 
 @media (max-width: 992px) {
     #leftnav li, #rightnav li{
         margin-right: 10px;
     }
+
+    #footer{
+        background-color: #167bbf;
+    }
+
+}
+
+
+
+
+
+
+
+/* Main carousel style */
+.carousel {
+    width: 800px;
+}
+
+/* Indicators list style */
+.article-slide .carousel-indicators {
+    bottom: 0;
+    left: 0;
+    margin-left: 5px;
+    width: 100%;
+}
+/* Indicators list style */
+.article-slide .carousel-indicators li {
+    border: medium none;
+    border-radius: 0;
+    float: left;
+    height: 54px;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 5px !important;
+    margin-top: 0;
+    width: 100px;
+}
+/* Indicators images style */
+.article-slide .carousel-indicators img {
+    border: 2px solid #FFFFFF;
+    float: left;
+    height: 54px;
+    left: 0;
+    width: 100px;
+}
+/* Indicators active image style */
+.article-slide .carousel-indicators .active img {
+    border: 2px solid #428BCA;
+    opacity: 0.7;
 }
