@@ -292,6 +292,10 @@ h3{
     margin-top: 20px;
 }
 
+.textPadding{
+
+}
+
 @media (max-width: 767px) {
     #equipment, #employment, #products{
         margin-top: 50px;

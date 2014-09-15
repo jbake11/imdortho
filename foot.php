@@ -5,8 +5,8 @@
 </div>
 
 <div id='footer' class="container-fluid image-responsive" >
-    <div class="row" >
-        <div class='col-lg-3 col-md-3 col-sm-6 col-xs-6 col-lg-offset-1'>
+    <div class="row textPadding" >
+        <div class='col-lg-3 col-md-3 col-sm-6 col-xs-6 '>
             <a href='history.php'><h1 class="footTitle">About</h1></a>
             <hr />
             <p class='footText'>Instrumental Machine & Development (IMD) was founded in 1991, originally located in Milford, Indiana. In the fall of 1992, the need for more manufacturing space provided the opportunity for IMD to move to Warsaw, Indiana.</p>
