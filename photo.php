@@ -38,17 +38,7 @@ include("head.php");
     <h3>IMD Specializes in a number of production processes for the Orthopaedic Industry. Below is a gallery
         of products we have manufactured for various clients.</h3>
 </div>
-<!--####
-1OK) Add jQuery library "<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>"
-2) Download fancybox (https://github.com/fancyapps/fancyBox)
-3) Add jquery.fancybox.css and jquery.fancybox.js
-4) Add fancybox images
-####--!>
 
-<!-- References: https://github.com/fancyapps/fancyBox -->
-<link rel="stylesheet" href="/css/jquery.fancybox.css" media="screen">
-<script src="/js/jquery.fancybox.js"></script>
-<script src="/js/fancybox.js"></script>
 
 
 <div class="container-fluid">
@@ -80,31 +70,31 @@ include("head.php");
                                 <div class="item" data-slide-number="5">
                                     <img src="images/gallery/5220_gold.jpg"></div>
 
-                                <div class="item" data-slide-number="5">
+                                <div class="item" data-slide-number="6">
                                     <img src="images/gallery/5230_gold.jpg"></div>
 
-                                <div class="item" data-slide-number="5">
+                                <div class="item" data-slide-number="7">
                                     <img src="images/gallery/6620.jpg"></div>
 
-                                <div class="item" data-slide-number="5">
+                                <div class="item" data-slide-number="8">
                                     <img src="images/gallery/6865-04_gold.jpg"></div>
 
-                                <div class="item" data-slide-number="5">
+                                <div class="item" data-slide-number="9">
                                     <img src="images/gallery/7400_handle.jpg"></div>
 
-                                <div class="item" data-slide-number="5">
+                                <div class="item" data-slide-number="10">
                                     <img src="images/gallery/9125.jpg"></div>
 
-                                <div class="item" data-slide-number="5">
+                                <div class="item" data-slide-number="11">
                                     <img src="images/gallery/T1006.jpg"></div>
 
-                                <div class="item" data-slide-number="5">
+                                <div class="item" data-slide-number="12">
                                     <img src="images/gallery/Tools-11.jpg"></div>
 
-                                <div class="item" data-slide-number="5">
+                                <div class="item" data-slide-number="13">
                                     <img src="images/gallery/Tools-15.jpg"></div>
 
-                                <div class="item" data-slide-number="5">
+                                <div class="item" data-slide-number="14">
                                     <img src="aluminum_remnants.jpg"></div>
                             </div>
                         </div>
@@ -142,39 +132,39 @@ include("head.php");
                 </li>
 
                 <li class="col-sm-2">
-                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/5230_gold.jpg" alt=""/></a>
+                    <a class="thumbnail" id="carousel-selector-6"><img src="images/gallery/5230_gold.jpg" alt=""/></a>
                 </li>
 
                 <li class="col-sm-2">
-                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/6620.jpg" alt=""/></a>
+                    <a class="thumbnail" id="carousel-selector-7"><img src="images/gallery/6620.jpg" alt=""/></a>
                 </li>
 
                 <li class="col-sm-2">
-                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/6865-04_gold.jpg" alt=""/></a>
+                    <a class="thumbnail" id="carousel-selector-8"><img src="images/gallery/6865-04_gold.jpg" alt=""/></a>
                 </li>
 
                 <li class="col-sm-2">
-                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/7400_handle.jpg" alt=""/></a>
+                    <a class="thumbnail" id="carousel-selector-9"><img src="images/gallery/7400_handle.jpg" alt=""/></a>
                 </li>
 
                 <li class="col-sm-2">
-                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/9125.jpg" alt=""/></a>
+                    <a class="thumbnail" id="carousel-selector-10"><img src="images/gallery/9125.jpg" alt=""/></a>
                 </li>
 
                 <li class="col-sm-2">
-                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/T1006.jpg" alt=""/></a>
+                    <a class="thumbnail" id="carousel-selector-11"><img src="images/gallery/T1006.jpg" alt=""/></a>
                 </li>
 
                 <li class="col-sm-2">
-                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/Tools-11.jpg" alt=""/></a>
+                    <a class="thumbnail" id="carousel-selector-12"><img src="images/gallery/Tools-11.jpg" alt=""/></a>
                 </li>
 
                 <li class="col-sm-2">
-                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/Tools-15.jpg" alt=""/></a>
+                    <a class="thumbnail" id="carousel-selector-13"><img src="images/gallery/Tools-15.jpg" alt=""/></a>
                 </li>
 
                 <li class="col-sm-2">
-                    <a class="thumbnail" id="carousel-selector-5"><img src="images/gallery/aluminum_remnants.jpg" alt=""/></a>
+                    <a class="thumbnail" id="carousel-selector-14"><img src="images/gallery/aluminum_remnants.jpg" alt=""/></a>
                 </li>
 
 
@@ -182,8 +172,6 @@ include("head.php");
         </div>
     </div>
 </div>
-
-
 
 <?php
 

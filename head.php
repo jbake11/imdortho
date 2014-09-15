@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Instrumental Machine & Development</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+
+
+
+
+    <head>
+        <title>Industrial Machine &amp; Development</title>
+        <meta charset="UTF-8">
+        <meta name="keywords" content="Warsaw, Indiana, orthopaedic, instruments, CNC, milling, marking, laser marking, manufacturing, orthopedic instruments, medical, instrumentation, development, sterilization, trays, operating, tools, imd, instrumental, machine, design">
+        <meta name="description" content="Instrumental Machine &amp; Development (IMD) a quality minded manufacturer of Orthopedic and Medical Instrumentation, supporting the Orthopedic community. Located in Warsaw, Indiana " the="" orthopaedic="" capital="" of="" world."="">
+              <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
         <script type="text/javascript" src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
 
         <!-- Latest compiled and minified CSS -->
