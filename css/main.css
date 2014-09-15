@@ -45,6 +45,12 @@ a:active {
     padding-right: 0px;
 }
 
+.arrangeThumbs img{
+    height: 125px;
+    width:  190px;
+
+}
+
 .thumb-table{
     display: table;
 
