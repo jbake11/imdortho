@@ -35,9 +35,8 @@ include("head.php");
     }
 </script>
 
-<div class='underNavElse clearfix hidden-lg hidden-md hidden-sm'>
-    <br /><br />
-</div>
+underNavElse
+
 
 <div class='container'>
     <div class="row">

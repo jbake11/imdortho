@@ -75,11 +75,11 @@ include("head.php");
             <img class='img-responsive' src='images/services/waterjet.jpg'>
         </div>
     </div>
-
+    <h1>Equipment</h1>
+    <h3>IMD combines knowledge, experience and a broad range of manufacturing equipment to design and provide medical devices.</h3>
     <div class="row">
-        <h1>Equipment</h1>
-        <h3>IMD combines knowledge, experience and a broad range of manufacturing equipment to design and provide medical devices.</h3>
-        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
             <ul>
                 <li>Mazak CNC Mills</li>
                 <li>Haas CNC Mills</li>
