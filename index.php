@@ -116,7 +116,7 @@ include("head.php");
         <div class="col-lg-9 col-md-9 col-sm-9">
             <h1>Knowledge. Equipment. Experience.</h1>
 
-            <h3>From single machining operations service to full manufacturing capabilities,
+            <h3 class='textAdjust'>From single machining operations service to full manufacturing capabilities,
                 you can count on Instrumental Machine & Development.</h3>
 
             Instrumental Machine & Development (IMD) a quality minded manufacturer of Orthopedic and
@@ -149,7 +149,7 @@ include("head.php");
             <ul>
                 <li id='products'><a href='photo.php'>Product Samples</a></li>
             </ul>
-            We've been supplying the orthopedic industry with surgical instrumentation since 1991. Over the years the surgical procedures have advanced and become less invasive thanks to the advancements in tool surgical instrument engineering and production processes. Visit our Gallery of view the various tools we have produced.
+            We've been supplying the orthopedic industry with surgical instrumentation since 1991. Over the years the surgical procedures have advanced and become less invasive thanks to the advancements in surgical instrument engineering and production processes. Visit our gallery of view the various tools we have produced.
         </div>
         <div class='col-sm-4'>
             <ul>
