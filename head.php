@@ -50,7 +50,6 @@
             </div>
         </div>
 
-
         <div class='container hidden-lg hidden-md hidden-xs'>
             <div class='row'>
                 <div class='col-xs-2 col-sm-2 transp'>
@@ -79,6 +78,10 @@
 
         <!-- Fixed navbar -->
         <div class="hidden-lg hidden-md hidden-sm navbar navbar-default navbar-fixed-top" role="navigation">
+
+            <div class="container logoAdjust">
+                <a class="navbar-brand" href="index.php"><img src="images/imdlogo-sm.png"></a>
+            </div>
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
@@ -87,9 +90,6 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <div class="container logoAdjust">
-                        <a class="navbar-brand" href="#"><img src="images/imdlogo-sm.png"></a>
-                    </div>
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav">
                             <li><a href="index.php">Home</a></li>
@@ -103,10 +103,6 @@
                     </div><!--/.nav-collapse -->
                 </div>
             </div>
-        </div>
-
-        <div class='smNav clearfix hidden-lg hidden-md hidden-sm'>
-            <br /><br />
         </div>
 
         <div id="bodywrap" class='container'>
