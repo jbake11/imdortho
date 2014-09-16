@@ -79,8 +79,8 @@
         <!-- Fixed navbar -->
         <div class="hidden-lg hidden-md hidden-sm navbar navbar-default navbar-fixed-top" role="navigation">
 
-            <div class="container logoAdjust">
-                <a class="navbar-brand" href="index.php"><img src="images/imdlogo-sm.png"></a>
+            <div class="container">
+                <a class="navbar-brand" href="index.php"><img class='logoAdjust' src="images/imdlogo-sm.png"></a>
             </div>
             <div class="container">
                 <div class="navbar-header">
