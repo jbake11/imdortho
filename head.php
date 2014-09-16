@@ -77,19 +77,21 @@
         </div>
 
         <!-- Fixed navbar -->
-        <div class="hidden-lg hidden-md hidden-sm navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="smNavAdjust hidden-lg hidden-md hidden-sm navbar navbar-default navbar-fixed-top" role="navigation">
+
 
             <div class="container">
-                <a class="navbar-brand" href="index.php"><img class='logoAdjust' src="images/imdlogo-sm.png"></a>
-            </div>
-            <div class="container">
                 <div class="navbar-header">
+
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
+                    <div class="container-fluid">
+                        <a class="navbar-brand" href="index.php"><img class='logoAdjust img-responsive' src="images/imdlogo-sm.png"></a>
+                    </div>
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav">
                             <li><a href="index.php">Home</a></li>
@@ -104,7 +106,6 @@
                 </div>
             </div>
         </div>
-
         <div id="bodywrap" class='container'>
             <div class='row'>
                 <div class='col-lg-12'>

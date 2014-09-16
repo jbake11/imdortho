@@ -35,6 +35,10 @@ include("head.php");
     }
 </script>
 
+<div class='underNavElse clearfix hidden-lg hidden-md hidden-sm'>
+    <br /><br />
+</div>
+
 <div class='container'>
     <div class="row">
         <div class="col-lg-12">

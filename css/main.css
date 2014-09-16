@@ -210,15 +210,18 @@ h3{
 .textPadding{
     margin-left: 20px;
 }
-
 .logoAdjust{
     margin-top: -15px;
     margin-left: -30px;
-    padding-bottom: 30px;
 }
 
-.underNav{
-    padding-top: 100px;
+.underNavIndex{
+    padding-top: 85px;
+
+}
+
+.underNavElse{
+    padding-top: 10px;
 
 }
 
