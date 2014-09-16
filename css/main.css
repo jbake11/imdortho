@@ -207,6 +207,11 @@ h3{
     margin-top: 20px;
 }
 
+.footBadgeSpace{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 .textPadding{
     margin-left: 20px;
 }
