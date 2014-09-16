@@ -64,7 +64,7 @@ include("head.php");
 </script>
 
 
-<div class='smNav clearfix hidden-lg hidden-md hidden-sm'>
+<div class='underNav clearfix hidden-lg hidden-md hidden-sm'>
     <br /><br />
 </div>
 
