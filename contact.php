@@ -49,7 +49,7 @@ include("head.php");
 
 <div class='container'>
     <div class='row'>
-        <div class='col-lg-6 address'>
+        <div class='col-lg-6 col-md-6 address'>
             <b>INSTRUMENTAL MACHINE & DEVELOPMENT</b><br />
             2098 N. Pound Drive, West<br />
             Warsaw, Indiana 46582<br />
@@ -57,7 +57,7 @@ include("head.php");
         </div>
 
 
-        <div class='col-lg-6'>
+        <div class='col-lg-6 col-md-6'>
             <form action="contact.php" method='POST' class='form'>
                 <fieldset>
                     <legend>Email Us For More Information</legend>
