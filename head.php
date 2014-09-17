@@ -23,7 +23,7 @@
     <body>
         <div class='container-fluid hidden-xs hidden-sm'>
             <div class='row'>
-                <div class='containter col-lg-5 col-md-5'>
+                <div align='center' class='containter col-lg-5 col-md-5'>
                     <ul id='leftnav' class="nav nav-pills">
                         <li><a href="index.php">Home</a></li>
                         <li><a href="contact.php">Contact Us</a></li>
@@ -31,11 +31,11 @@
                     </ul>
                 </div>
 
-                <div class='col-lg-2 col-md-2 transp'>
+                <div align='center' class='col-lg-2 col-md-2 transp'>
                     <a href="index.php"><img src='images/logo.png'></a>
                 </div>
 
-                <div class='containter col-lg-5 col-md-5'>
+                <div align='center' class=' containter col-lg-5 col-md-5'>
                     <ul id='rightnav' class="nav nav-pills">
                         <li><a href="photo.php">Photo Gallery</a></li>
                         <li><a href="equip.php">Equipment & Services</a></li>
