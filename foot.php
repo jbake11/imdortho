@@ -30,10 +30,10 @@
 
 <div class='container-fluid footerBar'>
     <div class="row">
-        <div class="footCopyrightText col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 col-lg-8 col-md-8 col-sm-8 col-xs-5">
+        <div class="footCopyrightText col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 col-lg-8 col-md-8 col-sm-6 col-xs-5">
             © 2014 Instrumental Machine & Development, Inc. All Rights Reserved.
         </div>
-        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 nwrap">
+        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 nwrap">
             <a href="https://www.facebook.com/pages/Instrumental-Machine-Development-Inc/116956151744466"><img class='pull-right' src='images/fbicon.png'></a>
             <a href="http://www.anab.org/"><img class='pull-right footBadgeSpace' src='images/anabicon.png'></a>
             <a href="images/ISO_Cert.pdf"><img class='pull-right' src='images/pjicon.png'></a>

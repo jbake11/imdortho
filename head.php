@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html>
-
-
-
-
-
     <head>
         <title>Industrial Machine &amp; Development</title>
         <meta charset="UTF-8">
@@ -23,13 +18,12 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
         <link rel="stylesheet" href="/css/main.css" media="screen">
-
-
     </head>
+
     <body>
         <div class='container-fluid hidden-xs hidden-sm'>
             <div class='row'>
-                <div class='col-lg-5 col-md-5'>
+                <div class='containter col-lg-5 col-md-5'>
                     <ul id='leftnav' class="nav nav-pills">
                         <li><a href="index.php">Home</a></li>
                         <li><a href="contact.php">Contact Us</a></li>
@@ -41,7 +35,7 @@
                     <a href="index.php"><img src='images/logo.png'></a>
                 </div>
 
-                <div class='col-lg-5 col-md-5'>
+                <div class='containter col-lg-5 col-md-5'>
                     <ul id='rightnav' class="nav nav-pills">
                         <li><a href="photo.php">Photo Gallery</a></li>
                         <li><a href="equip.php">Equipment & Services</a></li>
@@ -69,8 +63,8 @@
                 </div>
 
                 <div class='col-xs-3 col-sm-3 transp'>
-                    <ul id='leftnav' class="nav nav-pills">
-                        <li><a href="equip.php">Equipment & Services</a></li>
+                    <ul  class="nav nav-pills">
+                        <li><a class='' href="equip.php">Equipment & Services</a></li>
                     </ul>
                 </div>
             </div>
