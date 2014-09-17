@@ -109,6 +109,7 @@ h3{
     background-color: #163465;
     min-height: 70px;
     padding-top: 10px;
+
 }
 
 .indexContent{
@@ -340,7 +341,3 @@ h3{
 
 }
 
-
-body {
-    min-height: 800px;
-}
