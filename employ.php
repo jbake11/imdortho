@@ -4,7 +4,7 @@
 include("head.php");
 ?>
 
-<script>
+<script type='text/javascript'>
     function validate()
     {
         var name = document.getElementById('name').value;
