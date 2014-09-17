@@ -1,8 +1,57 @@
 
-<?php
 
-include("head.php");
+<? include("head.php"); ?>
+
+
+
+<div class='underNavElse clearfix hidden-lg hidden-md hidden-sm'>
+    <br /><br />
+</div>
+
+<div class='container'>
+    <div class="row">
+        <div class="col-lg-12">
+            <h1>Employment</h1>
+
+            IMD is an equal opportunity employer. We seek out candidates that share our vision for excellence and drive for customer satisfaction. If you would like to become part of the IMD family, please contact us for more information on available positions.
+        </div>
+    </div>
+</div>
+
+<?
+
+if(isset($_POST['send']))
+{
+
+// Some data for the message
+$mailTo = "jeffbake40@gmail.com";
+$mailFrom = $_POST['email'];
+$mailFromName = $_POST['name'];
+$mailSubject = "IMDOrtho.com Contact Page";
+
+$mailMessage = $_POST['name']."\n";
+$mailMessage .= $_POST['email']."\n";
+$mailMessage .= $_POST['citystate']."\n";
+$mailMessage .= $_POST['zip']."\n\n";
+if($_POST['brochure'] == "YES")
+{
+$mailMessage .= "I would like to fill out an application \n\n";
+}
+$mailMessage .= $_POST['message'];
+
+// Send mail
+mail($mailTo, $mailSubject, $mailMessage, "From: $mailFromName <$mailFrom>\r\n");
+//mail("cbake@livemercial.com, sjgraphics@kconline.com", $mailSubject, $mailMessage, "From: $mailFromName <$mailFrom>\r\n") or die("couldn't mail");
+
+echo "<br /><br /><b>Thanks for contacting us. We'll get in touch with you as soon as possible.</b>";
+
+}else{
 ?>
+<br />
+
+
+
+
 
 <script type='text/javascript'>
     function validate()
@@ -35,20 +84,10 @@ include("head.php");
     }
 </script>
 
-<div class='underNavElse clearfix hidden-lg hidden-md hidden-sm'>
-    <br /><br />
-</div>
 
-<div class='container'>
-    <div class="row">
-        <div class="col-lg-12">
-            <h1>Employment</h1>
-
-            IMD is an equal opportunity employer. We seek out candidates that share our vision for excellence and drive for customer satisfaction. If you would like to become part of the IMD family, please contact us for more information on available positions.
-        </div>
-    </div>
-</div>
 <br>
+
+
 
 <div class='container'>
     <div class='row'>

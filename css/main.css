@@ -295,12 +295,6 @@ h3{
 }
 
 
-@media (max-width: 1200px) {
-    .nav {
-
-    }
-}
-
 
 @media (min-width: 992px) {
 
@@ -322,24 +316,29 @@ h3{
 
     #leftnav li{
         margin-right: 31px;
+        padding-right: 10px;
+        padding-left: 10px;
     }
 
     #rightnav li{
-        margin-right: 20px;
+        margin-left: 10px;
+        padding-right: 10px;
+        padding-left: 10px;
     }
 
     #leftnav{
         float: right;
         margin-top: 30px;
+        margin-right: 31px;
     }
 
     #rightnav{
         float: left;
         margin-top: 30px;
+        margin-left: 31px;
     }
 
 }
-
 
 
 
