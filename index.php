@@ -71,7 +71,7 @@ include("head.php");
 </div>
 </div>
 </div>
-<div id='sliderWrite' class="container-fluid z-indexLow" >
+<div id='sliderWrite' class="container-fluid" >
     <div class="row">
         <!-- The carousel -->
         <div id="transition-timer-carousel" class="carousel slide transition-timer-carousel" data-ride="carousel">

@@ -62,7 +62,7 @@
                     </ul>
                 </div>
 
-                <div class='col-xs-3 col-sm-3 transp'>
+                <div class='col-xs-3 col-sm-3 '>
                     <ul  class="nav nav-pills">
                         <li><a class='' href="equip.php">Equipment & Services</a></li>
                     </ul>
