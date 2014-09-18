@@ -32,16 +32,24 @@ a:active {
     color: #0000FF;
 }
 
+
+
 .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    left: 0px;
+    position: fixed;
+    margin: auto;
+    display: block;
+    height: auto;
+    max-width: 100%;
     line-height: 1;
     width: 100%;
+
 
 }
 
 #sliderWrite{
-    margin: 0px;
-    margin-top: -75px;
     max-width: 100%;
+    margin-top: -78px;
 
 }
 
@@ -76,6 +84,7 @@ a:active {
 }
 
 .transp{
+
     z-index: 999;
 }
 
