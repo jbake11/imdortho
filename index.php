@@ -119,7 +119,7 @@ include("head.php");
             <h3 class='textAdjust'>From single machining operations service to full manufacturing capabilities,
                 you can count on Instrumental Machine & Development.</h3>
 
-            Instrumental Machine & Development (IMD) a quality minded manufacturer of Orthopedic and
+            Instrument Machine & Development (IMD) is a quality minded manufacturer of Orthopedic and
             Medical Instrumentation, supporting the Orthopedic community.
 
             IMD is committed to quality, on-time delivery and meeting the requirements of each and every customer.

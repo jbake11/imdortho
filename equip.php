@@ -27,8 +27,7 @@ include("head.php");
                         <li>Blasting</li>
                         <li>Laser Welding</li>
                         <li>Surface Grinding</li>
-                        <li>Prototype and</li>
-                        <li>Custom Parts</li>
+                        <li>Prototype and Custom Parts</li>
                         <li>Department</li>
                     </ul>
                 </div>
@@ -57,7 +56,7 @@ include("head.php");
                         <li>Heat Treating</li>
                         <li>Anodizing</li>
                         <li>Chrome Coating</li>
-                        <li>Tin Coating</li>
+                        <li>TiN Coating</li>
                         <li>Gun Drilling</li>
                     </ul>
                 </div>
