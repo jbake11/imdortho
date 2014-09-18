@@ -32,17 +32,23 @@ a:active {
     color: #0000FF;
 }
 
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    line-height: 1;
+    width: 100%;
+
+}
 
 #sliderWrite{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
     margin-top: -75px;
+    max-width: 100%;
 
 }
 
 #bodywrap{
     padding-left: 0px;
     padding-right: 0px;
+
 }
 
 
@@ -131,10 +137,7 @@ h3{
     margin-top: 20px;
 }
 
-.carousel-inner>.item>img, .carousel-inner>.item>a>img {
-    line-height: 1;
-    width: 99%;
-}
+
 
 #equipment a{
     vertical-align: super;
