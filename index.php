@@ -88,7 +88,7 @@ include("head.php");
             </ol>
 
             <!-- Wrapper for slides -->
-            <div class="carousel-inner">
+            <div class="carousel-inner container-fluid">
                 <div class="item active">
                     <img class='img-responsive' src="/images/slider/panel_1.jpg" />
                 </div>
@@ -110,8 +110,8 @@ include("head.php");
                 <span class="glyphicon glyphicon-chevron-right"></span>
             </a>
 
-            <!-- Timer "progress bar" -->
-            <hr class="transition-timer-carousel-progress-bar animate" />
+            <!--             Timer "progress bar"
+                        <hr class="transition-timer-carousel-progress-bar animate" />-->
         </div>
     </div>
 </div>
