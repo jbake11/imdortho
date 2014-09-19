@@ -33,19 +33,27 @@ a:active {
 }
 
 .carousel-inner>.item>img, .carousel-inner>.item>a>img {
-    left: 0px;
-    position: relative;
-    margin: auto;
     display: block;
     height: auto;
     max-width: 100%;
     line-height: 1;
-    width: 100%;
+    width: 100%; // Add this
 }
+
+.carousel {
+    margin: -1px 0 0 -1px;
+}
+
+.carousel {border: 1px solid transparent;}
 
 #sliderWrite{
     max-width: 100%;
     margin-top: -78px;
+
+}
+
+.transp{
+    z-index: 999;
 }
 
 #bodywrap{
@@ -78,10 +86,7 @@ a:active {
     white-space: nowrap;
 }
 
-.transp{
 
-    z-index: 999;
-}
 
 li {
     /*    font-size: 18px;*/

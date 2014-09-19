@@ -21,7 +21,7 @@
     </head>
 
     <body>
-        <div class='container-fluid hidden-xs hidden-sm '>
+        <div class='container-fluid hidden-xs hidden-sm'>
             <div class='row'>
                 <div align='center' class='containter col-lg-5 col-md-5'>
                     <ul id='leftnav' class="nav nav-pills">

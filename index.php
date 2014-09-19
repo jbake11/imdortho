@@ -1,9 +1,10 @@
 
 <?php
-
 include("head.php");
 ?>
-
+</div>
+</div>
+</div>
 <script type="text/css">
 
     .transition-timer-carousel .carousel-caption {
@@ -68,9 +69,13 @@ include("head.php");
     <br /><br />
 </div>
 
-</div>
-</div>
-</div>
+
+
+
+
+
+
+
 <div id='sliderWrite' class="container-fluid" >
     <div class="row">
         <!-- The carousel -->
@@ -164,7 +169,6 @@ include("head.php");
     <div class='row'>
         <div class='col-lg-12'>
             <?php
-
             include("foot.php");
             ?>
 
