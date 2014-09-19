@@ -69,17 +69,10 @@ include("head.php");
     <br /><br />
 </div>
 
-
-
-
-
-
-
-
 <div id='sliderWrite' class="container-fluid" >
-    <div class="row">
+    <div class="row ">
         <!-- The carousel -->
-        <div id="transition-timer-carousel" class="carousel slide transition-timer-carousel" data-ride="carousel">
+        <div id="transition-timer-carousel" class=" carousel slide transition-timer-carousel" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#transition-timer-carousel" data-slide-to="0" class="active"></li>
@@ -88,7 +81,7 @@ include("head.php");
             </ol>
 
             <!-- Wrapper for slides -->
-            <div class="carousel-inner container-fluid">
+            <div class="carousel-inner">
                 <div class="item active">
                     <img class='img-responsive' src="/images/slider/panel_1.jpg" />
                 </div>

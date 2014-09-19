@@ -83,7 +83,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <div class="container-fluid">
+                    <div class="container">
                         <a class="navbar-brand" href="index.php"><img class='logoAdjust img-responsive' src="images/imdlogo-sm.png"></a>
                     </div>
                     <div class="navbar-collapse collapse">

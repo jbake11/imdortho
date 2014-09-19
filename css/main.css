@@ -32,16 +32,13 @@ a:active {
     color: #0000FF;
 }
 
-.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+.carousel-inner>.item>img, .carousel-inner>.item>a>img{
     width: 100%;
-    display: block;
-
+    height: 100%;
     margin-left: auto;
     margin-right: -15px;
 
 }
-
-.navbar-wrapper {1px solid purple;}
 
 .container-fluid {
     margin-left: auto;
