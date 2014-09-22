@@ -54,19 +54,20 @@
                 <div class='col-xs-3 col-sm-3 transp'>
                     <ul id='leftnav' class="nav nav-pills">
                         <li><a href="index.php">Home</a></li>
-                        <li><a href="contact.php">Contact Us</a></li>
+                        <li><a href="photo.php"><br />Photo Gallery</a></li>
                     </ul>
                 </div>
                 <div class='col-xs-3 col-sm-3 transp'>
                     <ul id='centernav' class="nav nav-pills">
-                        <li><a href="history.php">History</a></li>
-                        <li><a href="photo.php">Photo Gallery</a></li>
+                        <li><a class='' href="equip.php">Equipment & Services</a></li>
+                        <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                 </div>
 
                 <div class='col-xs-3 col-sm-3 '>
                     <ul id='rightnav' class="nav nav-pills">
-                        <li><a class='' href="equip.php">Equipment & Services</a></li>
+                        <li><a href="history.php">History</a></li>
+                        <li><a href="employ.php"><br />Employment</a></li>
                     </ul>
                 </div>
             </div>
@@ -91,12 +92,13 @@
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav">
                             <li><a href="index.php">Home</a></li>
-                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href="equip.php">Equipment & Services</a></li>
                             <li><a href="history.php">History</a></li>
                         </ul>
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="photo.php">Photo Gallery</a></li>
-                            <li><a href="equip.php">Equipment & Services</a></li>
+                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href="employ.php">Employment</a></li>
                         </ul>
                     </div><!--/.nav-collapse -->
                 </div>
