@@ -307,8 +307,6 @@ h3{
     #leftnav {
         margin-top: 30px;
 
-
-
     }
 
     #centernav {
@@ -380,13 +378,13 @@ h3{
 
     #leftnav{
         float: right;
-        margin-top: 50px;
+        margin-top: 110px;
         margin-right: 31px;
     }
 
     #rightnav{
         float: left;
-        margin-top: 50px;
+        margin-top: 110px;
         margin-left: 20px;
     }
 
