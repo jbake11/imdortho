@@ -366,7 +366,7 @@ h3{
     }
 
     #rightnav li{
-        margin-left: 10px;
+        margin-left: 31px;
         padding-right: 10px;
         padding-left: 10px;
     }
@@ -380,23 +380,23 @@ h3{
     #rightnav{
         float: left;
         margin-top: 110px;
-        margin-left: 20px;
+        margin-left: 31px;
     }
 
 }
 
-@media(max-width: 1101px){
+@media(max-width: 1289px){
     @media(min-width: 993px){
         #leftnav li{
-            margin-right: 31px;
-            padding-right: 2px;
-            padding-left: 2px;
+            margin-right: 20px;
+            padding-right: 0px;
+            padding-left: 0px;
         }
 
         #rightnav li{
             margin-left: 10px;
-            padding-right: 2px;
-            padding-left: 2px;
+            padding-right: 0px;
+            padding-left: 0px;
         }
 
         #leftnav{
