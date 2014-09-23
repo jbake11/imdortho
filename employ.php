@@ -1,9 +1,7 @@
 
 
+
 <?php include("head.php"); ?>
-
-
-
 <div class='underNavElse clearfix hidden-lg hidden-md hidden-sm'>
     <br /><br />
 </div>

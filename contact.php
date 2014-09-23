@@ -2,6 +2,10 @@
 <!--ESpeicher@imdortho.com-->
 
 <?php include("head.php"); ?>
+<div class='underNavElse clearfix hidden-lg hidden-md hidden-sm'>
+    <br /><br />
+</div>
+
 <div class='container'>
     <div class="row">
         <div class="col-lg-12">
@@ -12,7 +16,6 @@
         </div>
     </div>
 </div>
-<br>
 
 <?php
 if (isset($_POST['send'])) {
