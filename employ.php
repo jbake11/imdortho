@@ -22,16 +22,17 @@
 if (isset($_POST['send'])) {
 
 // Some data for the message
-    $mailTo = "jeffbake40@gmail.com";
+    $mailTo = "espeicher@imdortho.com";
     $mailFrom = $_POST['email'];
     $mailFromName = $_POST['name'];
-    $mailSubject = "IMDOrtho.com Contact Page";
+    $mailSubject = "IMDOrtho.com Employment Page";
 
     $mailMessage = $_POST['name'] . "\n";
     $mailMessage .= $_POST['email'] . "\n";
+    $mailMessage .= $_POST['address'] . "\n";
     $mailMessage .= $_POST['citystate'] . "\n";
     $mailMessage .= $_POST['zip'] . "\n\n";
-    if ($_POST['brochure'] == "YES") {
+    if (!empty($_POST['application']) == "YES") {
         $mailMessage .= "I would like to fill out an application \n\n";
     }
     $mailMessage .= $_POST['message'];
@@ -96,7 +97,7 @@ if (isset($_POST['send'])) {
 
 
             <div class='col-lg-6  col-md-6'>
-                <form action="contact.php" method='POST' class='form'>
+                <form action="employ.php" method='POST' class='form'>
                     <fieldset>
                         <legend>Contact Us</legend>
 
@@ -132,7 +133,7 @@ if (isset($_POST['send'])) {
                             </textarea>
                         </div>
                         <div class='col-sm-6'>
-                            <input name='brochure' type="checkbox" name="brochure" value="1"> I would like to fill out an application<br>
+                            <input name='application' type="checkbox" value="1"> I would like to fill out an application<br>
                         </div>
                         <div class='col-sm-6'>
                             <button name='send' type="submit" class="btn btn-primary btn-block">Submit</button>

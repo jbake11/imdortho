@@ -18,16 +18,17 @@
 if (isset($_POST['send'])) {
 
 // Some data for the message
-    $mailTo = "jeffbake40@gmail.com";
+    $mailTo = "espeicher@imdortho.com";
     $mailFrom = $_POST['email'];
     $mailFromName = $_POST['name'];
     $mailSubject = "IMDOrtho.com Contact Page";
 
     $mailMessage = $_POST['name'] . "\n";
     $mailMessage .= $_POST['email'] . "\n";
+    $mailMessage .= $_POST['address'] . "\n";
     $mailMessage .= $_POST['citystate'] . "\n";
     $mailMessage .= $_POST['zip'] . "\n\n";
-    if ($_POST['brochure'] == "YES") {
+    if (!empty($_POST['brochure']) == "YES") {
         $mailMessage .= "SEND ME A BROCHURE!\n\n";
     }
     $mailMessage .= $_POST['message'];
@@ -121,7 +122,7 @@ if (isset($_POST['send'])) {
                             </textarea>
                         </div>
                         <div class='col-sm-6'>
-                            <input name='brochure' type="checkbox" name="brochure" value="1"> Please send me a company brochure<br>
+                            <input type="checkbox" name="brochure" value="1"> Please send me a company brochure<br>
                         </div>
                         <div class='col-sm-6'>
                             <button name='send' type="submit" class="btn btn-primary btn-block">Submit</button>
