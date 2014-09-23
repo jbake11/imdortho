@@ -1,6 +1,4 @@
 
-<!--ESpeicher@imdortho.com-->
-
 <?php include("head.php"); ?>
 <div class='underNavElse clearfix hidden-lg hidden-md hidden-sm'>
     <br /><br />
@@ -21,7 +19,7 @@
 if (isset($_POST['send'])) {
 
 // Some data for the message
-    $mailTo = "espeicher@imdortho.com";
+    $mailTo = "ESpeicher@imdortho.com";
     $mailFrom = $_POST['email'];
     $mailFromName = $_POST['name'];
     $mailSubject = "IMDOrtho.com Contact Page";
@@ -139,6 +137,5 @@ if (isset($_POST['send'])) {
 
     <?php
 }
-
 include("foot.php");
-?>
+
